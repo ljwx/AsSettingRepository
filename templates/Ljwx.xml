@@ -1,0 +1,117 @@
+<templateSet group="Ljwx">
+  <template name="xmg4" value="android:layout_marginLeft=&quot;20dp&quot;&#10;android:layout_marginRight=&quot;20dp&quot;&#10;android:layout_marginTop=&quot;20dp&quot;&#10;android:layout_marginBottom=&quot;20dp&quot;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="xpad" value="android:paddingBottom=&quot;10dp&quot;&#10;android:paddingLeft=&quot;10dp&quot;&#10;android:paddingRight=&quot;10dp&quot;&#10;android:paddingTop=&quot;10dp&quot;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="xsan" value="()?():()" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="xbingRecyXml" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;layout xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&#10;    xmlns:app=&quot;http://schemas.android.com/apk/res-auto&quot;&#10;    xmlns:tools=&quot;http://schemas.android.com/tools&quot;&gt;&#10;&#10;    &lt;LinearLayout&#10;        android:layout_width=&quot;match_parent&quot;&#10;        android:layout_height=&quot;match_parent&quot;&#10;        android:background=&quot;@color/white&quot;&#10;        android:orientation=&quot;vertical&quot;&#10;        &gt;&#10;&#10;        &lt;ezy.ui.widget.CenteredTitleBar&#10;            android:id=&quot;@+id/toolbar&quot;&#10;            style=&quot;@style/Toolbar.BackWithLine&quot;&#10;            app:title=&quot;好友助力&quot; /&gt;&#10;&#10;        &lt;android.support.v7.widget.RecyclerView&#10;            app:layoutManager=&quot;android.support.v7.widget.LinearLayoutManager&quot;&#10;            android:id=&quot;@+id/recycler&quot;&#10;            android:layout_width=&quot;match_parent&quot;&#10;            android:layout_height=&quot;match_parent&quot; /&gt;&#10;    &lt;/LinearLayout&gt;&#10;&lt;/layout&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="xRefreshListActivity" value="var mNext = &quot;&quot;&#10;private val mEmpty = ListEmptyData()&#10;val mType = BindingType.create(::class.java, R.layout.)&#10;val mAdapter = EndlessAdapter(mType, ItemTypes.EMPTY)&#10;&#10;override fun onCreate(savedInstanceState: Bundle?) {&#10;    super.onCreate(savedInstanceState)&#10;    mBinding.recycler.adapter = mAdapter&#10;    mAdapter.setOnLoadMoreListener {&#10;        getData(false)&#10;    }&#10;    mBinding.refresh.setOnRefreshListener {&#10;        getData(true)&#10;    }&#10;    getData(true)&#10;}&#10;&#10;&#10;fun getData(isRefresh: Boolean) {&#10;    mNext = if (isRefresh) &quot;&quot; else mNext&#10;    API.area().(mNext).doOnComplete { mBinding.refresh.isRefreshing = false }&#10;        .lifecycle(this).subscribe {&#10;        mNext = it.data.next&#10;        Utils.setDataList(mAdapter, it.data.items, isRefresh, it.data.hasMore, mEmpty)&#10;    }&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="xbingXml" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;layout xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&#10;    xmlns:app=&quot;http://schemas.android.com/apk/res-auto&quot;&#10;    xmlns:tools=&quot;http://schemas.android.com/tools&quot;&gt;&#10;&#10;    &lt;data&gt;&#10;&#10;        &lt;import type=&quot;android.view.View&quot; /&gt;&#10;&#10;        &lt;variable&#10;            name=&quot;onClick&quot;&#10;            type=&quot;android.view.View.OnClickListener&quot; /&gt;&#10;&#10;    &lt;/data&gt;&#10;&#10;    &lt;LinearLayout&#10;        android:orientation=&quot;vertical&quot;&#10;        android:layout_width=&quot;match_parent&quot;&#10;        android:layout_height=&quot;match_parent&quot;&#10;        android:gravity=&quot;center_horizontal&quot;&gt;&#10;&#10;        &lt;View&#10;            android:layout_width=&quot;match_parent&quot;&#10;            android:layout_height=&quot;20dp&quot;/&gt;&#10;&#10;        &lt;ezy.ui.widget.CenteredTitleBar&#10;            android:id=&quot;@+id/toolbar&quot;&#10;            style=&quot;@style/Toolbar.BgWhite&quot;&#10;            app:title=&quot;好友助力&quot; /&gt;&#10;&#10;    &lt;/LinearLayout&gt;&#10;&lt;/layout&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="xsupertv" value="&lt;com.allen.library.SuperTextView&#10;                android:layout_marginTop=&quot;0dp&quot;&#10;                android:layout_width=&quot;match_parent&quot;&#10;                android:layout_height=&quot;wrap_content&quot;&#10;                app:sCenterTextColor=&quot;@color/textPrimary&quot;&#10;                app:sCenterTextSize=&quot;@dimen/text_size_big&quot;&#10;                app:sCenterTextString=&quot;--&quot;&#10;                app:sDividerLineType=&quot;none&quot;&#10;                app:sLeftTextColor=&quot;@color/textPrimary&quot;&#10;                app:sLeftTextSize=&quot;@dimen/text_size_big&quot;&#10;                app:sLeftTextString=&quot;--&quot;&#10;                app:sLeftViewMarginLeft=&quot;0dp&quot;&#10;                app:sRightTextColor=&quot;@color/textPrimary&quot;&#10;                app:sRightTextSize=&quot;@dimen/text_size_big&quot;&#10;                app:sRightTextString=&quot;--&quot;&#10;                app:sRightViewMarginRight=&quot;0dp&quot;&#10;                app:sUseRipple=&quot;false&quot; /&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="xShowUser" value="UserModel.user.observe(this, Observer { user -&gt;&#10;    // view.text = &quot;hello, ${user?.nickname}&quot;&#10;})" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="x-refreshNestscrollBind" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;layout xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&#10;    xmlns:app=&quot;http://schemas.android.com/apk/res-auto&quot;&#10;    xmlns:tools=&quot;http://schemas.android.com/tools&quot;&gt;&#10;&#10;    &lt;data&gt;&#10;&#10;    &lt;/data&gt;&#10;&#10;    &lt;LinearLayout&#10;        android:layout_width=&quot;match_parent&quot;&#10;        android:layout_height=&quot;match_parent&quot;&#10;        android:orientation=&quot;vertical&quot;&gt;&#10;&#10;        &lt;ezy.ui.widget.CenteredTitleBar&#10;            android:id=&quot;@+id/toolbar&quot;&#10;            style=&quot;@style/Toolbar.BgWhite&quot;&#10;            app:title=&quot;排行榜&quot; /&gt;&#10;&#10;        &lt;com.scwang.smartrefresh.layout.SmartRefreshLayout&#10;            android:id=&quot;@+id/refresh&quot;&#10;            android:layout_width=&quot;match_parent&quot;&#10;            android:layout_height=&quot;match_parent&quot;&gt;&#10;&#10;            &lt;com.tianyuan.sjnc.common.widget.CustomRefreshHeader&#10;                android:layout_width=&quot;match_parent&quot;&#10;                app:titleTextColor=&quot;@color/textSecondary&quot;&#10;                app:backgroundColor=&quot;@color/grey_f4&quot;&#10;                android:layout_height=&quot;wrap_content&quot; /&gt;&#10;&#10;            &lt;android.support.v7.widget.RecyclerView&#10;                android:id=&quot;@+id/list&quot;&#10;                android:layout_width=&quot;match_parent&quot;&#10;                android:layout_height=&quot;wrap_content&quot;&#10;                android:layout_marginTop=&quot;10dp&quot;&#10;                app:layoutManager=&quot;android.support.v7.widget.LinearLayoutManager&quot; /&gt;&#10;        &lt;/com.scwang.smartrefresh.layout.SmartRefreshLayout&gt;&#10;    &lt;/LinearLayout&gt;&#10;&#10;&lt;/layout&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="xtextview" value="&lt;TextView&#10;    android:layout_width=&quot;wrap_content&quot;&#10;    android:layout_height=&quot;wrap_content&quot;&#10;    android:layout_marginLeft=&quot;0dp&quot;&#10;    android:layout_marginTop=&quot;0dp&quot;&#10;    android:layout_marginRight=&quot;0dp&quot;&#10;    android:text=&quot;&quot;&#10;    android:textColor=&quot;@color/textPrimary&quot;&#10;    android:textSize=&quot;14dp&quot; /&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="xRecycManager" value="app:layoutManager=&quot;android.support.v7.widget.LinearLayoutManager&quot;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="xCountdownView" value="&lt;cn.iwgang.countdownview.CountdownView&#10;                                        android:id=&quot;@+id/txt_count_down&quot;&#10;                                        android:layout_width=&quot;wrap_content&quot;&#10;                                        android:layout_height=&quot;wrap_content&quot;&#10;                                        app:isShowHour=&quot;true&quot;&#10;                                        app:isShowMinute=&quot;true&quot;&#10;                                        app:isShowSecond=&quot;true&quot;&#10;                                        app:isTimeTextBold=&quot;true&quot;&#10;                                        app:suffixGravity=&quot;bottom&quot;&#10;                                        app:suffixHour=&quot;:&quot;&#10;                                        app:suffixMinute=&quot;:&quot;&#10;                                        app:suffixTextColor=&quot;@color/color_61c048&quot;&#10;                                        app:timeTextColor=&quot;@color/color_61c048&quot;&#10;                                        app:timeTextSize=&quot;14sp&quot;&#10;                                        tools:text=&quot;00:08:52&quot; /&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="xHtmlTv" value="&lt;com.ljwx.view.HtmlTextView&#10;    android:layout_width=&quot;wrap_content&quot;&#10;    android:layout_height=&quot;wrap_content&quot;&#10;    app:htvCenterBold=&quot;true&quot;&#10;    app:htvCenterColor=&quot;@color/textPrimary&quot;&#10;    app:htvCenterSize=&quot;22dp&quot;&#10;    app:htvCenterString=&quot;21.9238091&quot;&#10;    app:htvLeftColor=&quot;@color/textSecondary&quot;&#10;    app:htvLeftSize=&quot;14dp&quot;&#10;    app:htvLeftString=&quot;￥&quot;&#10;    app:htvRightColor=&quot;@color/textPrimary&quot;&#10;    app:htvRightSize=&quot;16dp&quot;&#10;    app:htvRightString=&quot;5831&quot; /&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="xnumStyle" value="android:fontFamily=&quot;@font/din_medium&quot;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="xnodrawable" value="drawable_radius='@{3}'&#10;drawable_solidColor='@{0xff815156}'" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="xlogflag" value="Log.e(&quot;ljwx&quot;,&quot;&quot;)" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="xinitrecycler" value="val mType = BindingType.create(::class.java, R.layout.)&#10;val mAdapter = MultiTypeAdapter(mType, ItemTypes.EMPTY)&#10;mBinding.recycler.adapter = mAdapter&#10;mAdapter.items = &#10;mAdapter.notifyDataSetChanged()" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="xtextsty" value="&lt;TextView&#10;    style=&quot;@style/tv_wrap_33_12&quot;&#10;    android:layout_marginTop=&quot;18dp&quot;&#10;    android:text=&quot;人数&quot; /&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="xroundlayout" value="&lt;ezy.ui.widget.round.RoundLayout&#10;    android:layout_marginTop=&quot;18dp&quot;&#10;    android:layout_width=&quot;match_parent&quot;&#10;    android:layout_height=&quot;wrap_content&quot;&#10;    android:layout_marginLeft=&quot;15dp&quot;&#10;    android:layout_marginRight=&quot;15dp&quot;&#10;    android:paddingLeft=&quot;17dp&quot;&#10;    android:paddingTop=&quot;16dp&quot;&#10;    android:paddingRight=&quot;16dp&quot;&#10;    android:paddingBottom=&quot;17dp&quot;&#10;    app:rndCornerRadius=&quot;10dp&quot;&#10;    app:rndSolidColor=&quot;@color/white&quot;&gt;&#10;    &#10;&lt;/ezy.ui.widget.round.RoundLayout&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="xedittext" value="&lt;EditText&#10;    android:layout_width=&quot;match_parent&quot;&#10;    android:layout_height=&quot;33dp&quot;&#10;    android:background=&quot;@drawable/shape_grey_f4_r3&quot;&#10;    android:gravity=&quot;center_vertical&quot;&#10;    android:hint=&quot;输入或粘贴订单编号&quot;&#10;    android:paddingLeft=&quot;10dp&quot;&#10;    android:textColor=&quot;@color/textPrimary&quot;&#10;    android:textColorHint=&quot;@color/grey_be&quot;&#10;    android:textSize=&quot;14dp&quot; /&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="ximageview" value="&lt;ImageView&#10;    android:layout_width=&quot;97dp&quot;&#10;    android:layout_height=&quot;97dp&quot;&#10;    android:layout_marginLeft=&quot;16dp&quot;&#10;    android:layout_marginTop=&quot;16dp&quot;&#10;    android:layout_marginRight=&quot;0dp&quot;&#10;    app:layout_constraintLeft_toLeftOf=&quot;@id/white_radiu_bg&quot;&#10;    app:layout_constraintTop_toTopOf=&quot;@id/white_radiu_bg&quot; &#10;    /&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="xstart" value="companion object {&#10;        fun start(context: Context){&#10;        context.startActivity(Intent(context, ::class.java))&#10;        }&#10;    }" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>

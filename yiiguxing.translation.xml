@@ -1,0 +1,33 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="exclude" />
+      <item value="calculate" />
+      <item value="thumb" />
+      <item value="bucket" />
+      <item value="dest" />
+      <item value="Exist" />
+      <item value="Interpolator" />
+      <item value="Triangular" />
+      <item value="EDGE" />
+      <item value="crop" />
+      <item value="相机" />
+      <item value="camara" />
+      <item value="Intent" />
+      <item value="parse" />
+      <item value="Proxy" />
+      <item value="Snap" />
+      <item value="Snap Chat" />
+      <item value="Panel" />
+      <item value="rectangle" />
+      <item value="ring" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="17" />
+        <entry key="ENGLISH" value="18" />
+        <entry key="KURDISH" value="2" />
+      </map>
+    </option>
+  </component>
+</application>
