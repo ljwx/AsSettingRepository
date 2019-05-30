@@ -52,7 +52,7 @@
       <option name="XML" value="true" />
     </context>
   </template>
-  <template name="xRecycManager" value="app:layoutManager=&quot;android.support.v7.widget.LinearLayoutManager&quot;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="xRecyc" value="&lt;android.support.v7.widget.RecyclerView&#10;    android:id=&quot;@+id/recycler&quot;&#10;    android:layout_width=&quot;match_parent&quot;&#10;    android:layout_height=&quot;wrap_content&quot;&#10;    app:layoutManager=&quot;android.support.v7.widget.LinearLayoutManager&quot; /&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="XML" value="true" />
     </context>
