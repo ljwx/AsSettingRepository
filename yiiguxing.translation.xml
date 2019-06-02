@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="thumb" />
       <item value="clip" />
       <item value="reverse" />
       <item value="stored" />
@@ -15,7 +16,6 @@
       <item value="bannerview" />
       <item value="exclude" />
       <item value="calculate" />
-      <item value="thumb" />
       <item value="bucket" />
       <item value="dest" />
       <item value="Exist" />
@@ -36,8 +36,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="CHINESE" value="30" />
+        <entry key="ENGLISH" value="31" />
         <entry key="KURDISH" value="2" />
       </map>
     </option>
