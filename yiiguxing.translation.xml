@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="develop" />
+      <item value="develope" />
       <item value="Evaluate" />
       <item value="satisfy" />
       <item value="following" />
@@ -47,8 +49,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="43" />
+        <entry key="ENGLISH" value="44" />
         <entry key="KURDISH" value="2" />
       </map>
     </option>
