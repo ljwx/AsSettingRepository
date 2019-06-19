@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Ancestor" />
+      <item value="Centered" />
       <item value="Paginate" />
       <item value="profile" />
       <item value="limited" />
@@ -42,8 +44,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="CHINESE" value="38" />
+        <entry key="ENGLISH" value="39" />
         <entry key="KURDISH" value="2" />
       </map>
     </option>
