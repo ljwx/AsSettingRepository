@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Granted" />
       <item value="Policy" />
       <item value="Policey" />
       <item value="Translucent" />
@@ -50,12 +51,11 @@
       <item value="dest" />
       <item value="Exist" />
       <item value="Interpolator" />
-      <item value="Triangular" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="57" />
-        <entry key="ENGLISH" value="58" />
+        <entry key="CHINESE" value="58" />
+        <entry key="ENGLISH" value="59" />
         <entry key="KURDISH" value="2" />
         <entry key="ROMANIAN" value="1" />
       </map>
