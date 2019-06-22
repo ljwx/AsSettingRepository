@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="xokhttp" value="OkClient().get(RequestImpl(&quot;social/stored_statuses/&quot;)&#10;                .setBody(&quot;limit&quot;, &quot;10&quot;)&#10;                .setBody(&quot;offset&quot;, &quot;0&quot;), object : Callback {&#10;            override fun onFailure(call: Call, e: IOException) {&#10;&#10;            }&#10;&#10;            @Throws(IOException::class)&#10;            override fun onResponse(call: Call, response: Response) {&#10;                try {&#10;                    val bean = Gson().fromJson&lt;TimeLineTempBean&gt;(response.body()!!.string(), TimeLineTempBean::class.java!!)&#10;                } catch (e: Exception) {&#10;                    Log.e(&quot;ljwxx&quot;,e.toString())&#10;                }&#10;            }&#10;        })" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>
