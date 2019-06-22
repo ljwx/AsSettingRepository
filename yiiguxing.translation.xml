@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="STATUS" />
       <item value="bio" />
       <item value="profile" />
       <item value="limited" />
@@ -43,7 +44,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="ENGLISH" value="37" />
         <entry key="BOSNIAN" value="1" />
         <entry key="KURDISH" value="2" />
       </map>
