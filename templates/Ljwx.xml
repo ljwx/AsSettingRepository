@@ -103,7 +103,7 @@
       <option name="XML" value="true" />
     </context>
   </template>
-  <template name="ximageview" value="&lt;ImageView&#10;    android:layout_width=&quot;97dp&quot;&#10;    android:layout_height=&quot;97dp&quot;&#10;    android:layout_marginLeft=&quot;16dp&quot;&#10;    android:layout_marginTop=&quot;16dp&quot;&#10;    android:layout_marginRight=&quot;0dp&quot;&#10;    app:layout_constraintLeft_toLeftOf=&quot;@id/white_radiu_bg&quot;&#10;    app:layout_constraintTop_toTopOf=&quot;@id/white_radiu_bg&quot; &#10;    /&gt;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="ximageview" value="&lt;ImageView&#10;                android:layout_width=&quot;40dp&quot;&#10;                android:layout_height=&quot;40dp&quot;&#10;                android:layout_marginLeft=&quot;16dp&quot;&#10;                android:layout_marginTop=&quot;16dp&quot;&#10;                android:layout_marginRight=&quot;0dp&quot; /&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="XML" value="true" />
     </context>
