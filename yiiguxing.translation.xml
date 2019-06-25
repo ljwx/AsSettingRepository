@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Limit" />
+      <item value="pswd not same" />
       <item value="verify" />
+      <item value="again" />
+      <item value="Limit" />
       <item value="验证" />
       <item value="vertify" />
       <item value="Picker" />
@@ -30,8 +32,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="26" />
-        <entry key="ENGLISH" value="27" />
+        <entry key="CHINESE" value="29" />
+        <entry key="ENGLISH" value="30" />
         <entry key="ALBANIAN" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
