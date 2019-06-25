@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Expired" />
+      <item value="Session" />
       <item value="authorised" />
       <item value="Unauthorised" />
-      <item value="Expired" />
       <item value="Rtl" />
       <item value="handy" />
       <item value="expires" />
@@ -20,8 +21,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="15" />
+        <entry key="CHINESE" value="16" />
+        <entry key="ENGLISH" value="17" />
         <entry key="ALBANIAN" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
