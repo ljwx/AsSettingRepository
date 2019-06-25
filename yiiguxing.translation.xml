@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sure" />
       <item value="Bearer" />
       <item value="Expired" />
       <item value="Session" />
@@ -22,8 +23,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="19" />
         <entry key="ALBANIAN" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
