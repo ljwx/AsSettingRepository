@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <histories>
       <item value="curtain" />
+      <item value="curved" />
       <item value="sure" />
       <item value="Bearer" />
       <item value="Expired" />
@@ -24,8 +25,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="20" />
+        <entry key="CHINESE" value="21" />
+        <entry key="ENGLISH" value="22" />
         <entry key="ALBANIAN" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
