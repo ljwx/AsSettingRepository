@@ -1,43 +1,47 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="STATUS" />
-      <item value="bio" />
-      <item value="profile" />
-      <item value="limited" />
-      <item value="forbidden" />
-      <item value="partition" />
-      <item value="ago" />
-      <item value="thumb" />
-      <item value="clip" />
-      <item value="reverse" />
-      <item value="stored" />
-      <item value="photo" />
+      <item value="external" />
+      <item value="internal" />
+      <item value="handle" />
+      <item value="captcha" />
+      <item value="retry" />
+      <item value="attention" />
+      <item value="pswd not same" />
+      <item value="verify" />
+      <item value="again" />
+      <item value="Limit" />
+      <item value="验证" />
+      <item value="vertify" />
+      <item value="Picker" />
+      <item value="curtain" />
+      <item value="curved" />
+      <item value="sure" />
+      <item value="Bearer" />
+      <item value="Expired" />
+      <item value="Session" />
+      <item value="authorised" />
+      <item value="Unauthorised" />
+      <item value="Rtl" />
+      <item value="handy" />
+      <item value="expires" />
       <item value="exit" />
-      <item value="exist" />
-      <item value="sex" />
-      <item value="Granularity" />
-      <item value="uniform" />
-      <item value="Fixed" />
-      <item value="Bubble" />
-      <item value="bannerview" />
-      <item value="exclude" />
-      <item value="calculate" />
-      <item value="bucket" />
-      <item value="dest" />
-      <item value="Exist" />
-      <item value="Interpolator" />
-      <item value="Triangular" />
+      <item value="Tertiary" />
+      <item value="Restore" />
+      <item value="corners" />
+      <item value="radius" />
+      <item value="avater" />
+      <item value="twice" />
+      <item value="skip" />
+      <item value="Badge" />
+      <item value="Accent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="57" />
-        <entry key="ENGLISH" value="58" />
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="37" />
-        <entry key="BOSNIAN" value="1" />
-        <entry key="KURDISH" value="2" />
-        <entry key="ROMANIAN" value="1" />
+        <entry key="CHINESE" value="35" />
+        <entry key="ENGLISH" value="36" />
+        <entry key="ALBANIAN" value="1" />
+        <entry key="HUNGARIAN" value="1" />
       </map>
     </option>
   </component>
