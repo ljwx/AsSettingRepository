@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="signature" />
       <item value="look over" />
       <item value="gap" />
       <item value="arch" />
@@ -50,12 +51,11 @@
       <item value="handy" />
       <item value="expires" />
       <item value="exit" />
-      <item value="Tertiary" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
-        <entry key="ENGLISH" value="56" />
+        <entry key="CHINESE" value="56" />
+        <entry key="ENGLISH" value="57" />
         <entry key="ALBANIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
         <entry key="VIETNAMESE" value="1" />
