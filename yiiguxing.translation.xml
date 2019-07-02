@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="await" />
+      <item value="wait" />
+      <item value="pay wait" />
+      <item value="payment" />
+      <item value="待付款" />
       <item value="signature" />
       <item value="look over" />
       <item value="gap" />
@@ -46,16 +51,11 @@
       <item value="Expired" />
       <item value="Session" />
       <item value="authorised" />
-      <item value="Unauthorised" />
-      <item value="Rtl" />
-      <item value="handy" />
-      <item value="expires" />
-      <item value="exit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="60" />
+        <entry key="ENGLISH" value="61" />
         <entry key="ALBANIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
         <entry key="VIETNAMESE" value="1" />
