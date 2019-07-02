@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="arch" />
+      <item value="orch" />
+      <item value="avater" />
+      <item value="avatar" />
+      <item value="circle" />
+      <item value="圆形" />
+      <item value="cricle" />
       <item value="cart" />
       <item value="category" />
       <item value="我的" />
@@ -44,19 +51,14 @@
       <item value="Tertiary" />
       <item value="Restore" />
       <item value="corners" />
-      <item value="radius" />
-      <item value="avater" />
-      <item value="twice" />
-      <item value="skip" />
-      <item value="Badge" />
-      <item value="Accent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="50" />
-        <entry key="ALBANIAN" value="1" />
+        <entry key="CHINESE" value="53" />
+        <entry key="ENGLISH" value="54" />
+        <entry key="ALBANIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
+        <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
   </component>
