@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="enrolled" />
+      <item value="validating" />
+      <item value="RESTRICTED&amp;TRUSTED" />
       <item value="expires" />
       <item value="coupon" />
       <item value="ship" />
@@ -48,14 +51,11 @@
       <item value="vertify" />
       <item value="Picker" />
       <item value="curtain" />
-      <item value="curved" />
-      <item value="sure" />
-      <item value="Bearer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="63" />
-        <entry key="ENGLISH" value="64" />
+        <entry key="CHINESE" value="66" />
+        <entry key="ENGLISH" value="67" />
         <entry key="ALBANIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
         <entry key="VIETNAMESE" value="1" />
