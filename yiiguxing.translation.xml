@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="already" />
       <item value="account" />
       <item value="enrolled" />
       <item value="validating" />
@@ -50,12 +51,11 @@
       <item value="Limit" />
       <item value="验证" />
       <item value="vertify" />
-      <item value="Picker" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="67" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="69" />
         <entry key="ALBANIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
         <entry key="VIETNAMESE" value="1" />
