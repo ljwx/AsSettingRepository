@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="continue" />
+      <item value="prompt" />
+      <item value="提示" />
+      <item value="rationale" />
       <item value="already" />
       <item value="account" />
       <item value="enrolled" />
@@ -47,15 +51,11 @@
       <item value="attention" />
       <item value="pswd not same" />
       <item value="verify" />
-      <item value="again" />
-      <item value="Limit" />
-      <item value="验证" />
-      <item value="vertify" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="68" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="CHINESE" value="71" />
+        <entry key="ENGLISH" value="72" />
         <entry key="ALBANIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
         <entry key="VIETNAMESE" value="1" />
