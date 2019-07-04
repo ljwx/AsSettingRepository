@@ -114,4 +114,9 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
+  <template name="xerror" value="if (it.code != 200) {&#10;    context.toast(it.message)&#10;    return@subscribe&#10; }" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
 </templateSet>
