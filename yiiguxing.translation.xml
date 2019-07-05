@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="corners" />
+      <item value="radius" />
+      <item value="rectangle" />
+      <item value="oval" />
       <item value="gradient" />
       <item value="Len" />
       <item value="block" />
@@ -47,15 +51,11 @@
       <item value="Pattern" />
       <item value="Decimal" />
       <item value="external" />
-      <item value="internal" />
-      <item value="handle" />
-      <item value="captcha" />
-      <item value="retry" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="73" />
-        <entry key="ENGLISH" value="74" />
+        <entry key="CHINESE" value="77" />
+        <entry key="ENGLISH" value="78" />
         <entry key="ALBANIAN" value="2" />
         <entry key="SLOVAK" value="1" />
         <entry key="HUNGARIAN" value="1" />
