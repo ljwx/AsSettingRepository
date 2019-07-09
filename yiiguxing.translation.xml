@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="主题" />
       <item value="Ripple" />
       <item value="bounded" />
       <item value="instantiate" />
@@ -50,11 +51,10 @@
       <item value="绑定" />
       <item value="Expiration" />
       <item value="in" />
-      <item value="Blank" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="83" />
+        <entry key="CHINESE" value="84" />
         <entry key="ENGLISH" value="84" />
         <entry key="ALBANIAN" value="2" />
         <entry key="SLOVAK" value="1" />
