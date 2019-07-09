@@ -88,7 +88,7 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="xtextsty" value="&lt;TextView&#10;    style=&quot;@style/tv_wrap_c2_s16&quot;&#10;    android:layout_marginLeft=&quot;0dp&quot;&#10;    android:layout_marginTop=&quot;18dp&quot;&#10;    android:layout_marginRight=&quot;0dp&quot;&#10;    android:text=&quot;&quot; /&gt;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="xtextsty" value="&lt;TextView&#10;    style=&quot;@style/tv_wrap_s14_c3&quot;&#10;    android:layout_marginLeft=&quot;0dp&quot;&#10;    android:layout_marginTop=&quot;10dp&quot;&#10;    android:layout_marginRight=&quot;0dp&quot;&#10;    android:text=&quot;&quot; /&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="XML" value="true" />
     </context>
