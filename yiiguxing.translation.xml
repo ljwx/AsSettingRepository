@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="细分" />
       <item value="Cashier" />
       <item value="Origin" />
       <item value="Oringin" />
@@ -50,11 +51,10 @@
       <item value="payment" />
       <item value="待付款" />
       <item value="signature" />
-      <item value="look over" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="97" />
+        <entry key="CHINESE" value="98" />
         <entry key="ENGLISH" value="98" />
         <entry key="ALBANIAN" value="2" />
         <entry key="SLOVAK" value="1" />
