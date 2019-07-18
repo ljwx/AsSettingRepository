@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="adjust" />
       <item value="ring" />
       <item value="INVALID" />
       <item value="circle" />
@@ -50,7 +51,6 @@
       <item value="enrolled" />
       <item value="validating" />
       <item value="RESTRICTED&amp;TRUSTED" />
-      <item value="expires" />
     </histories>
     <option name="languageScores">
       <map>
