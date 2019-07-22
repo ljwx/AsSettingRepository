@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="descendant" />
       <item value="column" />
       <item value="suffix" />
       <item value="marquee" />
@@ -50,12 +51,11 @@
       <item value="prompt" />
       <item value="提示" />
       <item value="rationale" />
-      <item value="already" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="101" />
-        <entry key="ENGLISH" value="102" />
+        <entry key="CHINESE" value="102" />
+        <entry key="ENGLISH" value="103" />
         <entry key="ALBANIAN" value="2" />
         <entry key="SLOVAK" value="1" />
         <entry key="HUNGARIAN" value="1" />
