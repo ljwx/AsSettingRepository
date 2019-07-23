@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="score" />
       <item value="Fixed" />
       <item value="descendant" />
       <item value="column" />
@@ -50,7 +51,6 @@
       <item value="block" />
       <item value="continue" />
       <item value="prompt" />
-      <item value="提示" />
     </histories>
     <option name="languageScores">
       <map>
