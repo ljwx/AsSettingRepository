@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="blockcanary" />
       <item value="Goods" />
       <item value="comment" />
       <item value="Recommend" />
@@ -50,7 +51,6 @@
       <item value="Second" />
       <item value="second" />
       <item value="corners" />
-      <item value="radius" />
     </histories>
     <option name="languageScores">
       <map>
