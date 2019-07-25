@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Goods" />
       <item value="comment" />
       <item value="Recommend" />
       <item value="commend" />
@@ -50,7 +51,6 @@
       <item value="second" />
       <item value="corners" />
       <item value="radius" />
-      <item value="rectangle" />
     </histories>
     <option name="languageScores">
       <map>
