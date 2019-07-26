@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Decration" />
       <item value="blockcanary" />
       <item value="Goods" />
       <item value="comment" />
@@ -50,12 +51,11 @@
       <item value="Third" />
       <item value="Second" />
       <item value="second" />
-      <item value="corners" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="109" />
-        <entry key="ENGLISH" value="110" />
+        <entry key="CHINESE" value="110" />
+        <entry key="ENGLISH" value="111" />
         <entry key="ALBANIAN" value="2" />
         <entry key="SLOVAK" value="1" />
         <entry key="HUNGARIAN" value="1" />
