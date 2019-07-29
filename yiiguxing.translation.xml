@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="estimate" />
+      <item value="rating" />
       <item value="扩充" />
       <item value="half" />
       <item value="Invocation" />
@@ -49,13 +51,11 @@
       <item value="recent" />
       <item value="Border" />
       <item value="State" />
-      <item value="销量" />
-      <item value="最新" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="116" />
-        <entry key="ENGLISH" value="116" />
+        <entry key="CHINESE" value="120" />
+        <entry key="ENGLISH" value="121" />
         <entry key="ALBANIAN" value="2" />
         <entry key="SLOVAK" value="1" />
         <entry key="HUNGARIAN" value="1" />
