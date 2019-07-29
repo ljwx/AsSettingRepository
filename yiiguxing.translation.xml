@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Instance" />
+      <item value="recommend" />
       <item value="Toggle" />
       <item value="Fling" />
       <item value="front" />
@@ -22,7 +24,6 @@
       <item value="comment" />
       <item value="Recommend" />
       <item value="commend" />
-      <item value="recommend" />
       <item value="preferential" />
       <item value="simple" />
       <item value="score" />
@@ -50,12 +51,11 @@
       <item value="extend" />
       <item value="扩展" />
       <item value="extention" />
-      <item value="Recent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="124" />
-        <entry key="ENGLISH" value="125" />
+        <entry key="CHINESE" value="126" />
+        <entry key="ENGLISH" value="127" />
         <entry key="ALBANIAN" value="2" />
         <entry key="SLOVAK" value="1" />
         <entry key="HUNGARIAN" value="1" />
