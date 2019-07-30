@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Coordinator" />
       <item value="IDLE" />
       <item value="Instance" />
       <item value="recommend" />
@@ -50,12 +51,11 @@
       <item value="extension" />
       <item value="handy" />
       <item value="extend" />
-      <item value="扩展" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="127" />
-        <entry key="ENGLISH" value="128" />
+        <entry key="CHINESE" value="128" />
+        <entry key="ENGLISH" value="129" />
         <entry key="ALBANIAN" value="2" />
         <entry key="SLOVAK" value="1" />
         <entry key="HUNGARIAN" value="1" />
