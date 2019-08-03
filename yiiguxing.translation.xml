@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reply" />
+      <item value="replay" />
+      <item value="superaddition" />
+      <item value="supperaddition" />
       <item value="Badge" />
       <item value="expanded" />
       <item value="collapsed" />
@@ -47,17 +51,15 @@
       <item value="column" />
       <item value="suffix" />
       <item value="marquee" />
-      <item value="container" />
-      <item value="adjust" />
-      <item value="ring" />
-      <item value="INVALID" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="141" />
-        <entry key="ENGLISH" value="142" />
+        <entry key="CHINESE" value="143" />
+        <entry key="ENGLISH" value="144" />
         <entry key="ALBANIAN" value="2" />
+        <entry key="DANISH" value="1" />
         <entry key="SLOVAK" value="1" />
+        <entry key="SPANISH" value="1" />
         <entry key="HUNGARIAN" value="1" />
         <entry key="VIETNAMESE" value="1" />
       </map>
