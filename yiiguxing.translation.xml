@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Interval" />
       <item value="already" />
       <item value="Specail" />
       <item value="Pagination" />
@@ -50,12 +51,11 @@
       <item value="score" />
       <item value="Fixed" />
       <item value="descendant" />
-      <item value="column" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="146" />
-        <entry key="ENGLISH" value="147" />
+        <entry key="CHINESE" value="147" />
+        <entry key="ENGLISH" value="148" />
         <entry key="ALBANIAN" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="SLOVAK" value="1" />
