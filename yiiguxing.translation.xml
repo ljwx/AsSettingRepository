@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="amount" />
+      <item value="结算" />
       <item value="编辑" />
       <item value="Interval" />
       <item value="already" />
@@ -49,13 +51,11 @@
       <item value="commend" />
       <item value="preferential" />
       <item value="simple" />
-      <item value="score" />
-      <item value="Fixed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="148" />
-        <entry key="ENGLISH" value="148" />
+        <entry key="CHINESE" value="149" />
+        <entry key="ENGLISH" value="150" />
         <entry key="ALBANIAN" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="SLOVAK" value="1" />
