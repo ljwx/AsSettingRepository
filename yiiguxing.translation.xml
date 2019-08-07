@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ellip" />
+      <item value="ellipsize" />
       <item value="amount" />
       <item value="结算" />
       <item value="编辑" />
@@ -49,19 +51,17 @@
       <item value="comment" />
       <item value="Recommend" />
       <item value="commend" />
-      <item value="preferential" />
-      <item value="simple" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="149" />
-        <entry key="ENGLISH" value="150" />
+        <entry key="CHINESE" value="151" />
+        <entry key="ENGLISH" value="151" />
         <entry key="ALBANIAN" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="SLOVAK" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="HUNGARIAN" value="1" />
-        <entry key="VIETNAMESE" value="1" />
+        <entry key="VIETNAMESE" value="2" />
       </map>
     </option>
   </component>
