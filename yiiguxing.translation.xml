@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="详细" />
+      <item value="所在" />
+      <item value="所在地区" />
+      <item value="地区" />
+      <item value="收货" />
       <item value="默认" />
       <item value="放弃" />
       <item value="Cancel" />
@@ -46,18 +51,14 @@
       <item value="shelves" />
       <item value="hex" />
       <item value="sale" />
-      <item value="Grident" />
-      <item value="Coordinator" />
-      <item value="IDLE" />
-      <item value="Instance" />
-      <item value="recommend" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="166" />
-        <entry key="ENGLISH" value="166" />
+        <entry key="CHINESE" value="171" />
+        <entry key="ENGLISH" value="171" />
         <entry key="ALBANIAN" value="2" />
         <entry key="DANISH" value="1" />
+        <entry key="JAPANESE" value="2" />
         <entry key="SLOVAK" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="HUNGARIAN" value="1" />
