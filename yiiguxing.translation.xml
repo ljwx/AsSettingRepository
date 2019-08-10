@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="放弃" />
+      <item value="Cancel" />
       <item value="circle" />
       <item value="支付结果" />
       <item value="payment" />
@@ -49,13 +51,11 @@
       <item value="Instance" />
       <item value="recommend" />
       <item value="Toggle" />
-      <item value="Fling" />
-      <item value="front" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="163" />
-        <entry key="ENGLISH" value="164" />
+        <entry key="CHINESE" value="165" />
+        <entry key="ENGLISH" value="165" />
         <entry key="ALBANIAN" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="SLOVAK" value="1" />
