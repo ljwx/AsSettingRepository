@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="默认" />
       <item value="放弃" />
       <item value="Cancel" />
       <item value="circle" />
@@ -50,12 +51,11 @@
       <item value="IDLE" />
       <item value="Instance" />
       <item value="recommend" />
-      <item value="Toggle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="165" />
-        <entry key="ENGLISH" value="165" />
+        <entry key="CHINESE" value="166" />
+        <entry key="ENGLISH" value="166" />
         <entry key="ALBANIAN" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="SLOVAK" value="1" />
