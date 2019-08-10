@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="备注" />
+      <item value="Offer" />
+      <item value="offer" />
+      <item value="优惠" />
+      <item value="运费" />
       <item value="Could" />
       <item value="Flatten" />
       <item value="Flattenable" />
@@ -46,16 +51,11 @@
       <item value="Panel" />
       <item value="estimate" />
       <item value="rating" />
-      <item value="扩充" />
-      <item value="half" />
-      <item value="Invocation" />
-      <item value="stadium" />
-      <item value="Aspect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="158" />
-        <entry key="ENGLISH" value="159" />
+        <entry key="CHINESE" value="162" />
+        <entry key="ENGLISH" value="162" />
         <entry key="ALBANIAN" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="SLOVAK" value="1" />
