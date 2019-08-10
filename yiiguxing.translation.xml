@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="payment" />
       <item value="备注" />
       <item value="Offer" />
       <item value="offer" />
@@ -50,12 +51,11 @@
       <item value="front" />
       <item value="Panel" />
       <item value="estimate" />
-      <item value="rating" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="162" />
-        <entry key="ENGLISH" value="162" />
+        <entry key="ENGLISH" value="163" />
         <entry key="ALBANIAN" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="SLOVAK" value="1" />
