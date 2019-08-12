@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="remind" />
       <item value="transparent" />
       <item value="详细" />
       <item value="所在" />
@@ -50,12 +51,11 @@
       <item value="assemble" />
       <item value="Ranking" />
       <item value="shelves" />
-      <item value="hex" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="171" />
-        <entry key="ENGLISH" value="172" />
+        <entry key="CHINESE" value="172" />
+        <entry key="ENGLISH" value="173" />
         <entry key="ALBANIAN" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="JAPANESE" value="2" />
