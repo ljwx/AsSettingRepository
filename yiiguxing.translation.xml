@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DIRECTION" />
       <item value="ship" />
       <item value="remind" />
       <item value="transparent" />
@@ -50,12 +51,11 @@
       <item value="complete" />
       <item value="Delivery" />
       <item value="assemble" />
-      <item value="Ranking" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="173" />
-        <entry key="ENGLISH" value="174" />
+        <entry key="CHINESE" value="174" />
+        <entry key="ENGLISH" value="175" />
         <entry key="ALBANIAN" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="JAPANESE" value="2" />
