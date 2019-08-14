@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="User-Agent" />
+      <item value="Agent" />
       <item value="Comparable" />
       <item value="LOGISTICS" />
       <item value="comment" />
@@ -49,13 +51,11 @@
       <item value="Pagination" />
       <item value="reply" />
       <item value="replay" />
-      <item value="superaddition" />
-      <item value="supperaddition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="182" />
-        <entry key="ENGLISH" value="183" />
+        <entry key="CHINESE" value="184" />
+        <entry key="ENGLISH" value="185" />
         <entry key="ALBANIAN" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="JAPANESE" value="2" />
