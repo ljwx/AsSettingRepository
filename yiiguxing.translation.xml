@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="apply" />
+      <item value="申请" />
+      <item value="售后申请" />
       <item value="User-Agent" />
       <item value="Agent" />
       <item value="Comparable" />
@@ -48,14 +51,11 @@
       <item value="Interval" />
       <item value="already" />
       <item value="Specail" />
-      <item value="Pagination" />
-      <item value="reply" />
-      <item value="replay" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="184" />
-        <entry key="ENGLISH" value="185" />
+        <entry key="CHINESE" value="186" />
+        <entry key="ENGLISH" value="187" />
         <entry key="ALBANIAN" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="JAPANESE" value="2" />
