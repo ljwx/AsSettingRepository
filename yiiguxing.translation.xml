@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Comparable" />
       <item value="LOGISTICS" />
       <item value="comment" />
       <item value="submit" />
@@ -50,12 +51,11 @@
       <item value="replay" />
       <item value="superaddition" />
       <item value="supperaddition" />
-      <item value="Badge" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="181" />
-        <entry key="ENGLISH" value="182" />
+        <entry key="CHINESE" value="182" />
+        <entry key="ENGLISH" value="183" />
         <entry key="ALBANIAN" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="JAPANESE" value="2" />
