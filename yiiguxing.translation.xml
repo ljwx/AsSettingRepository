@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Origin" />
       <item value="resume" />
       <item value="restore" />
       <item value="apply" />
@@ -50,12 +51,11 @@
       <item value="amount" />
       <item value="结算" />
       <item value="编辑" />
-      <item value="Interval" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="188" />
-        <entry key="ENGLISH" value="189" />
+        <entry key="CHINESE" value="189" />
+        <entry key="ENGLISH" value="190" />
         <entry key="ALBANIAN" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="JAPANESE" value="2" />
