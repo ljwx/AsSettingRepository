@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="State" />
       <item value="unique" />
       <item value="唯一" />
       <item value="uniq" />
@@ -50,12 +51,11 @@
       <item value="Affected" />
       <item value="bills" />
       <item value="minus" />
-      <item value="ellip" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="191" />
-        <entry key="ENGLISH" value="192" />
+        <entry key="CHINESE" value="192" />
+        <entry key="ENGLISH" value="193" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="1" />
