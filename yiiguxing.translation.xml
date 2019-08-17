@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="execute" />
+      <item value="执行" />
+      <item value="excute" />
       <item value="有效" />
       <item value="payment" />
       <item value="specified" />
@@ -48,17 +51,15 @@
       <item value="优惠" />
       <item value="运费" />
       <item value="Could" />
-      <item value="Flatten" />
-      <item value="Flattenable" />
-      <item value="Identifiable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="198" />
-        <entry key="ENGLISH" value="198" />
+        <entry key="CHINESE" value="200" />
+        <entry key="ENGLISH" value="201" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="1" />
+        <entry key="LATIN" value="1" />
         <entry key="JAPANESE" value="2" />
         <entry key="SLOVAK" value="1" />
         <entry key="SPANISH" value="1" />
