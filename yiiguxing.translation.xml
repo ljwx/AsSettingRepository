@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="input" />
+      <item value="接收" />
+      <item value="apply" />
+      <item value="supply" />
+      <item value="application" />
       <item value="运费" />
       <item value="deliver" />
       <item value="amount" />
@@ -21,7 +26,6 @@
       <item value="Origin" />
       <item value="resume" />
       <item value="restore" />
-      <item value="apply" />
       <item value="申请" />
       <item value="售后申请" />
       <item value="User-Agent" />
@@ -47,15 +51,11 @@
       <item value="放弃" />
       <item value="Cancel" />
       <item value="circle" />
-      <item value="支付结果" />
-      <item value="备注" />
-      <item value="Offer" />
-      <item value="offer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="203" />
-        <entry key="ENGLISH" value="203" />
+        <entry key="CHINESE" value="206" />
+        <entry key="ENGLISH" value="207" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="1" />
