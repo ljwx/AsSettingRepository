@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="credential" />
       <item value="round" />
       <item value="UNMOUNT" />
       <item value="MOUNT" />
@@ -50,12 +51,11 @@
       <item value="Agent" />
       <item value="Comparable" />
       <item value="comment" />
-      <item value="submit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="222" />
-        <entry key="ENGLISH" value="223" />
+        <entry key="CHINESE" value="223" />
+        <entry key="ENGLISH" value="224" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="1" />
