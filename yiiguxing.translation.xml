@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="product Flavors" />
+      <item value="Flavor" />
+      <item value="Flavors" />
       <item value="fetch" />
       <item value="invalidate" />
       <item value="compress" />
@@ -48,14 +51,11 @@
       <item value="unique" />
       <item value="唯一" />
       <item value="uniq" />
-      <item value="vistor" />
-      <item value="Origin" />
-      <item value="resume" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="228" />
-        <entry key="ENGLISH" value="229" />
+        <entry key="CHINESE" value="231" />
+        <entry key="ENGLISH" value="232" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="1" />
