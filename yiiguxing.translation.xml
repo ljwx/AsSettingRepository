@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="协议和服务条款" />
+      <item value="条款" />
+      <item value="协议" />
+      <item value="通知" />
       <item value="发票" />
       <item value="属性" />
       <item value="product Flavors" />
@@ -47,15 +51,11 @@
       <item value="payment" />
       <item value="specified" />
       <item value="check Parameter Is Not Null" />
-      <item value="Resize" />
-      <item value="settle Account" />
-      <item value="State" />
-      <item value="unique" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="233" />
-        <entry key="ENGLISH" value="233" />
+        <entry key="CHINESE" value="237" />
+        <entry key="ENGLISH" value="237" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="1" />
