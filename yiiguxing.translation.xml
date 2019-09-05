@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="scale" />
+      <item value="clip" />
       <item value="discount" />
       <item value="抢走" />
       <item value="距离结束" />
@@ -49,13 +51,11 @@
       <item value="Receive" />
       <item value="响应" />
       <item value="Check" />
-      <item value="物流" />
-      <item value="Tracker" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="248" />
-        <entry key="ENGLISH" value="249" />
+        <entry key="CHINESE" value="250" />
+        <entry key="ENGLISH" value="251" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="1" />
