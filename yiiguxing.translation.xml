@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Total" />
+      <item value="Count" />
       <item value="low stocks" />
       <item value="second" />
       <item value="minute" />
@@ -49,13 +51,11 @@
       <item value="Evaluation" />
       <item value="Logistic" />
       <item value="Logistics" />
-      <item value="TRACKER" />
-      <item value="LOGISTICS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="259" />
-        <entry key="ENGLISH" value="260" />
+        <entry key="CHINESE" value="261" />
+        <entry key="ENGLISH" value="262" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="1" />
