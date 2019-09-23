@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Const" />
       <item value="purchase" />
       <item value="Immediate" />
       <item value="force" />
@@ -50,12 +51,11 @@
       <item value="invalidate" />
       <item value="compress" />
       <item value="跳转" />
-      <item value="indices" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="270" />
-        <entry key="ENGLISH" value="271" />
+        <entry key="CHINESE" value="271" />
+        <entry key="ENGLISH" value="272" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="1" />
