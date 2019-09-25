@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ship" />
       <item value="申请保护" />
       <item value="申请成功" />
       <item value="申请" />
@@ -50,12 +51,11 @@
       <item value="通知" />
       <item value="发票" />
       <item value="属性" />
-      <item value="product Flavors" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="277" />
-        <entry key="ENGLISH" value="277" />
+        <entry key="ENGLISH" value="278" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="1" />
