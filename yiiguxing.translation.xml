@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Kotlin could not find the required JDK tools in the Java installation 'C:\Program Files\Java\jre1.8.0_211' used by Gradle. Make sure Gradle is running on a JDK, not JRE" />
       <item value="payment Info Available" />
       <item value="num Items" />
       <item value="his function assumes logger is an instance of AppEventsLogger and has been * created using AppEventsLogger.newLogger() call." />
@@ -50,12 +51,11 @@
       <item value="contact" />
       <item value="原因" />
       <item value="Granted" />
-      <item value="Denied" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="287" />
-        <entry key="ENGLISH" value="288" />
+        <entry key="CHINESE" value="288" />
+        <entry key="ENGLISH" value="289" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="1" />
