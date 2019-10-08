@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="For extended debugging info execute Gradle from the command line with ./gradlew --info :app:assembleDebug to see the dep endency paths to the artifact. This error message came from the google-services Gradle plugin, report issues at https:// github.com/google/play-services-plugins and disable by adding &quot;googleServices { disableVersionCheck = false }&quot; to your b uild.gradle file" />
+      <item value="The following dependencies are project dependencies that are direct or have transitive dependencies that lead to the art ifact with the issue" />
       <item value="telephony" />
       <item value="Kotlin could not find the required JDK tools in the Java installation 'C:\Program Files\Java\jre1.8.0_211' used by Gradle. Make sure Gradle is running on a JDK, not JRE" />
       <item value="payment Info Available" />
@@ -49,13 +51,11 @@
       <item value="图片" />
       <item value="Virtual" />
       <item value="Layout" />
-      <item value="contact" />
-      <item value="原因" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="289" />
-        <entry key="ENGLISH" value="290" />
+        <entry key="CHINESE" value="291" />
+        <entry key="ENGLISH" value="292" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="1" />
