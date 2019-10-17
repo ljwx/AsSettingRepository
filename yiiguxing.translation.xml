@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Phone" />
+      <item value="call Bouti Phone" />
       <item value="java Compile Options" />
       <item value="application Variants" />
       <item value="原生" />
@@ -49,8 +51,6 @@
       <item value="express" />
       <item value="button" />
       <item value="Single" />
-      <item value="scale" />
-      <item value="clip" />
     </histories>
     <option name="languageScores">
       <map>
