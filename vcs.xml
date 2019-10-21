@@ -26,6 +26,10 @@
           <option name="url" value="http://192.168.1.215:8801" />
           <option name="userName" value="tianzhaoming@zhicheng-sz.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ljwx/Hym.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Android\Project" />
