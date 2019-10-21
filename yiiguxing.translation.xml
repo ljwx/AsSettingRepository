@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="已领取优惠券" />
+      <item value="可领取优惠券" />
       <item value="offer" />
       <item value="优惠" />
       <item value="领取" />
@@ -49,13 +51,11 @@
       <item value="Count" />
       <item value="low stocks" />
       <item value="second" />
-      <item value="minute" />
-      <item value="due" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="299" />
-        <entry key="ENGLISH" value="300" />
+        <entry key="CHINESE" value="301" />
+        <entry key="ENGLISH" value="301" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="1" />
