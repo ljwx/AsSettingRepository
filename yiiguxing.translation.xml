@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="postcard" />
       <item value="领取" />
       <item value="去使用" />
       <item value="Available" />
@@ -50,12 +51,11 @@
       <item value="police" />
       <item value="policy" />
       <item value="Total" />
-      <item value="Count" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="303" />
-        <entry key="ENGLISH" value="303" />
+        <entry key="ENGLISH" value="304" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="1" />
