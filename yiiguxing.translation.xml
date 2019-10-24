@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="regist" />
+      <item value="注册" />
       <item value="recommend" />
       <item value="推荐使用优惠" />
       <item value="支付方式" />
@@ -49,13 +51,11 @@
       <item value="ship" />
       <item value="申请保护" />
       <item value="申请成功" />
-      <item value="申请" />
-      <item value="Dropdown" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="314" />
-        <entry key="ENGLISH" value="315" />
+        <entry key="CHINESE" value="315" />
+        <entry key="ENGLISH" value="316" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="1" />
