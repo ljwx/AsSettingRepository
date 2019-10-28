@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="multiple" />
       <item value="single" />
       <item value="Identifiable" />
       <item value="Flattenable" />
@@ -21,7 +22,6 @@
       <item value="Concurrent Modification Exception" />
       <item value="Cache" />
       <item value="Cach" />
-      <item value="multiple" />
       <item value="multiply" />
       <item value="lost" />
       <item value="found" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="325" />
-        <entry key="ENGLISH" value="326" />
+        <entry key="CHINESE" value="326" />
+        <entry key="ENGLISH" value="327" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="1" />
