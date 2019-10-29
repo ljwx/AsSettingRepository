@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Multiple" />
       <item value="multiple" />
       <item value="single" />
       <item value="Identifiable" />
@@ -50,12 +51,11 @@
       <item value="telephony" />
       <item value="Kotlin could not find the required JDK tools in the Java installation 'C:\Program Files\Java\jre1.8.0_211' used by Gradle. Make sure Gradle is running on a JDK, not JRE" />
       <item value="payment Info Available" />
-      <item value="num Items" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="326" />
-        <entry key="ENGLISH" value="327" />
+        <entry key="CHINESE" value="327" />
+        <entry key="ENGLISH" value="328" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="1" />
