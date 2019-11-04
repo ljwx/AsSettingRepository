@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="region" />
       <item value="mobile" />
       <item value="已抢光" />
       <item value="免费领" />
@@ -50,12 +51,11 @@
       <item value="去使用" />
       <item value="Available" />
       <item value="已领取优惠券" />
-      <item value="可领取优惠券" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="342" />
-        <entry key="ENGLISH" value="343" />
+        <entry key="CHINESE" value="343" />
+        <entry key="ENGLISH" value="344" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="1" />
