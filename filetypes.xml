@@ -8,6 +8,8 @@
       <mapping pattern="placeholder" type="PLAIN_TEXT" />
       <mapping ext="mk" type="PLAIN_TEXT" />
       <mapping ext="aar" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="keysotre" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
