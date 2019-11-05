@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="retake" />
+      <item value="重新抢" />
+      <item value="view now" />
+      <item value="立即查看" />
       <item value="region" />
       <item value="mobile" />
       <item value="已抢光" />
@@ -47,15 +51,11 @@
       <item value="interrupt" />
       <item value="arrival" />
       <item value="postcard" />
-      <item value="领取" />
-      <item value="去使用" />
-      <item value="Available" />
-      <item value="已领取优惠券" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="343" />
-        <entry key="ENGLISH" value="344" />
+        <entry key="CHINESE" value="345" />
+        <entry key="ENGLISH" value="346" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="1" />
