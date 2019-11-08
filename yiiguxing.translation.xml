@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="HEAD" />
       <item value="Update" />
       <item value="boost" />
       <item value="Expected" />
@@ -50,12 +51,11 @@
       <item value="recommend" />
       <item value="推荐使用优惠" />
       <item value="支付方式" />
-      <item value="payment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="353" />
-        <entry key="ENGLISH" value="354" />
+        <entry key="CHINESE" value="354" />
+        <entry key="ENGLISH" value="355" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="1" />
