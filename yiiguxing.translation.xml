@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the following users have helped you" />
+      <item value="以下用户已助力您" />
+      <item value="其他0元好物" />
+      <item value="invite friends to help" />
+      <item value="邀请好友帮忙" />
+      <item value="助力将失效" />
       <item value="Ruler" />
       <item value="HEAD" />
       <item value="Update" />
@@ -45,17 +51,11 @@
       <item value="Logined" />
       <item value="discount" />
       <item value="evaluate" />
-      <item value="is Logined" />
-      <item value="novice" />
-      <item value="regist" />
-      <item value="注册" />
-      <item value="recommend" />
-      <item value="推荐使用优惠" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="355" />
-        <entry key="ENGLISH" value="356" />
+        <entry key="CHINESE" value="360" />
+        <entry key="ENGLISH" value="361" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="1" />
