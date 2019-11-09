@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="下次邀请更多好友助力" />
+      <item value="您已成功获取免费商品" />
       <item value="查看全部" />
       <item value="props" />
       <item value="7人" />
@@ -49,13 +51,11 @@
       <item value="single" />
       <item value="Identifiable" />
       <item value="Flattenable" />
-      <item value="expired" />
-      <item value="已过期" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="363" />
-        <entry key="ENGLISH" value="363" />
+        <entry key="CHINESE" value="365" />
+        <entry key="ENGLISH" value="365" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="1" />
