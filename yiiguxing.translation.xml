@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="查看全部" />
       <item value="props" />
       <item value="7人" />
       <item value="即可成功" />
@@ -50,11 +51,10 @@
       <item value="Flattenable" />
       <item value="expired" />
       <item value="已过期" />
-      <item value="已使用" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="362" />
+        <entry key="CHINESE" value="363" />
         <entry key="ENGLISH" value="363" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
