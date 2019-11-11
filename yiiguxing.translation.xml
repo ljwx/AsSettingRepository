@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="add new address" />
       <item value="Remote" />
       <item value="bind now" />
       <item value="立即绑定" />
@@ -50,12 +51,11 @@
       <item value="粉色" />
       <item value="规则" />
       <item value="Found" />
-      <item value="Arrival" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="378" />
-        <entry key="ENGLISH" value="379" />
+        <entry key="CHINESE" value="379" />
+        <entry key="ENGLISH" value="380" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="1" />
