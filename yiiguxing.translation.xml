@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="brown" />
       <item value="邀请" />
       <item value="add new address" />
       <item value="Remote" />
@@ -50,12 +51,11 @@
       <item value="mobile" />
       <item value="已抢光" />
       <item value="粉色" />
-      <item value="规则" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="380" />
-        <entry key="ENGLISH" value="380" />
+        <entry key="ENGLISH" value="381" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="1" />
