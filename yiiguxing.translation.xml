@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="免费领取" />
+      <item value="immediately" />
+      <item value="free immediately" />
+      <item value="立即免费领取" />
+      <item value="chooise" />
+      <item value="chooise one of three cards" />
+      <item value="从三张牌中选取一张" />
+      <item value="助力人数" />
       <item value="recommend" />
       <item value="blocks" />
       <item value="descendant" />
@@ -43,19 +51,11 @@
       <item value="Ruler" />
       <item value="HEAD" />
       <item value="Update" />
-      <item value="boost" />
-      <item value="Expected" />
-      <item value="不使用优惠券" />
-      <item value="Bubble" />
-      <item value="Claim" />
-      <item value="expand" />
-      <item value="展开助力列表" />
-      <item value="收起助力列表" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="388" />
-        <entry key="ENGLISH" value="389" />
+        <entry key="CHINESE" value="394" />
+        <entry key="ENGLISH" value="394" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="1" />
@@ -66,6 +66,7 @@
         <entry key="SLOVENIAN" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="HUNGARIAN" value="1" />
+        <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="VIETNAMESE" value="3" />
       </map>
