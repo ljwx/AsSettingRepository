@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="event" />
       <item value="on Arrival" />
       <item value="scheme" />
       <item value="免费领取" />
@@ -50,12 +51,11 @@
       <item value="invite friends to help" />
       <item value="邀请好友帮忙" />
       <item value="助力将失效" />
-      <item value="Ruler" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="395" />
-        <entry key="ENGLISH" value="396" />
+        <entry key="CHINESE" value="396" />
+        <entry key="ENGLISH" value="397" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="1" />
