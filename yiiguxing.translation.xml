@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="人满必定发货" />
+      <item value="chooice" />
+      <item value="选择心仪商品" />
       <item value="有人帮你助力啦" />
       <item value="我的免单" />
       <item value="今日免单" />
@@ -48,14 +51,11 @@
       <item value="props" />
       <item value="7人" />
       <item value="即可成功" />
-      <item value="the following users have helped you" />
-      <item value="以下用户已助力您" />
-      <item value="其他0元好物" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="399" />
-        <entry key="ENGLISH" value="399" />
+        <entry key="CHINESE" value="402" />
+        <entry key="ENGLISH" value="402" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="1" />
