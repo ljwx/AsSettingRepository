@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="FREE SMS CODE COUNTDOWN" />
       <item value="人满必定发货" />
       <item value="chooice" />
       <item value="选择心仪商品" />
@@ -50,12 +51,11 @@
       <item value="查看全部" />
       <item value="props" />
       <item value="7人" />
-      <item value="即可成功" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="402" />
-        <entry key="ENGLISH" value="402" />
+        <entry key="ENGLISH" value="403" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="1" />
