@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="前往今日免费领领取" />
       <item value="remain Time" />
       <item value="remian Time" />
       <item value="FREE SMS CODE COUNTDOWN" />
@@ -50,11 +51,10 @@
       <item value="已有" />
       <item value="下次邀请更多好友助力" />
       <item value="您已成功获取免费商品" />
-      <item value="查看全部" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="403" />
+        <entry key="CHINESE" value="404" />
         <entry key="ENGLISH" value="404" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
