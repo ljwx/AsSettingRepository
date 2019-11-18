@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="generic Template Content" />
+      <item value="generic Template Element" />
       <item value="前往今日免费领领取" />
       <item value="remain Time" />
       <item value="remian Time" />
@@ -49,13 +51,11 @@
       <item value="comment" />
       <item value="人免费领取" />
       <item value="已有" />
-      <item value="下次邀请更多好友助力" />
-      <item value="您已成功获取免费商品" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="404" />
-        <entry key="ENGLISH" value="404" />
+        <entry key="CHINESE" value="405" />
+        <entry key="ENGLISH" value="406" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="1" />
