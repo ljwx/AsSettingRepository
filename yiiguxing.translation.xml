@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="center Crop" />
       <item value="jump" />
       <item value="跳转" />
       <item value="Skip" />
@@ -50,12 +51,11 @@
       <item value="remaind" />
       <item value="剩余" />
       <item value="免费领" />
-      <item value="更多免单" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="410" />
-        <entry key="ENGLISH" value="411" />
+        <entry key="CHINESE" value="411" />
+        <entry key="ENGLISH" value="412" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="1" />
