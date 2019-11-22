@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Required by" />
+      <item value="ERROR: Failed to resolve: com.facebook.android:facebook-core:5.11.1" />
       <item value="Dispose" />
       <item value="Assistance" />
       <item value="center Crop" />
@@ -49,13 +51,11 @@
       <item value="bind now" />
       <item value="立即绑定" />
       <item value="get verify code" />
-      <item value="verify code" />
-      <item value="remaind" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="413" />
-        <entry key="ENGLISH" value="413" />
+        <entry key="CHINESE" value="414" />
+        <entry key="ENGLISH" value="415" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="1" />
