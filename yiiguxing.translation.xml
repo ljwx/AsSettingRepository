@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="coupon" />
       <item value="stock" />
       <item value="可以买" />
       <item value="shipping" />
@@ -50,7 +51,6 @@
       <item value="recommend" />
       <item value="blocks" />
       <item value="descendant" />
-      <item value="descendant Focusability" />
     </histories>
     <option name="languageScores">
       <map>
