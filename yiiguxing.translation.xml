@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="shipping" />
       <item value="boost Result" />
       <item value="deprecated" />
       <item value="Recommend" />
@@ -50,12 +51,11 @@
       <item value="descendant Focusability" />
       <item value="blocks Descendants" />
       <item value="我的" />
-      <item value="mine" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="421" />
-        <entry key="ENGLISH" value="422" />
+        <entry key="CHINESE" value="422" />
+        <entry key="ENGLISH" value="423" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="1" />
