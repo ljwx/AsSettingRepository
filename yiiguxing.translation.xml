@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Delivery" />
       <item value="observer" />
       <item value="客服" />
       <item value="查看更多" />
@@ -50,12 +51,11 @@
       <item value="立即免费领取" />
       <item value="chooise" />
       <item value="chooise one of three cards" />
-      <item value="从三张牌中选取一张" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="426" />
-        <entry key="ENGLISH" value="427" />
+        <entry key="CHINESE" value="427" />
+        <entry key="ENGLISH" value="428" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="1" />
