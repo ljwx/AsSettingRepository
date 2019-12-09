@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="voucher" />
       <item value="order amount money" />
       <item value="spread" />
       <item value="packed" />
@@ -50,12 +51,11 @@
       <item value="跳转" />
       <item value="Skip" />
       <item value="inset Top" />
-      <item value="统计" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="446" />
-        <entry key="ENGLISH" value="447" />
+        <entry key="CHINESE" value="447" />
+        <entry key="ENGLISH" value="448" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="2" />
