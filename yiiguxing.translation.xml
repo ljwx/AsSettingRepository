@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="上传照片" />
+      <item value="审核失败原因" />
+      <item value="上传支付凭证" />
+      <item value="payment infomation" />
+      <item value="打款信息" />
       <item value="This is text that will be associated with the payment that the app can use" />
       <item value="breakdown" />
       <item value="Purchase" />
@@ -46,16 +51,11 @@
       <item value="Recommend" />
       <item value="spec" />
       <item value="规格" />
-      <item value="barrier" />
-      <item value="Direction" />
-      <item value="marketing" />
-      <item value="Required by" />
-      <item value="ERROR: Failed to resolve: com.facebook.android:facebook-core:5.11.1" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="456" />
-        <entry key="ENGLISH" value="457" />
+        <entry key="CHINESE" value="460" />
+        <entry key="ENGLISH" value="460" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="2" />
