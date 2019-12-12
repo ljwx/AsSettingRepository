@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Purchase" />
+      <item value="Stuff" />
       <item value="Topic" />
       <item value="tax" />
       <item value="shipping" />
@@ -49,13 +51,11 @@
       <item value="Required by" />
       <item value="ERROR: Failed to resolve: com.facebook.android:facebook-core:5.11.1" />
       <item value="Dispose" />
-      <item value="Assistance" />
-      <item value="center Crop" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="452" />
-        <entry key="ENGLISH" value="453" />
+        <entry key="CHINESE" value="454" />
+        <entry key="ENGLISH" value="455" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="2" />
