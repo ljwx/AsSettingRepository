@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Proof Of Payment" />
       <item value="handle" />
       <item value="上传照片" />
       <item value="审核失败原因" />
@@ -50,12 +51,11 @@
       <item value="boost Result" />
       <item value="deprecated" />
       <item value="Recommend" />
-      <item value="spec" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="460" />
-        <entry key="ENGLISH" value="461" />
+        <entry key="CHINESE" value="461" />
+        <entry key="ENGLISH" value="462" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="2" />
