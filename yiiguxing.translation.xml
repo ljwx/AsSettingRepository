@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <histories>
       <item value="javax.crypto.IllegalBlockSizeException: error:1e00007b:Cipher functions:OPENSSL_internal:WRONG_FINAL_BLOCK_LENGTH" />
+      <item value="Hex" />
       <item value="java.security.InvalidKeyException: Unsupported key size: 44 bytes" />
       <item value="spongy" />
       <item value="castle" />
@@ -50,12 +51,11 @@
       <item value="service explain" />
       <item value="Delivery" />
       <item value="observer" />
-      <item value="客服" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="468" />
-        <entry key="ENGLISH" value="469" />
+        <entry key="CHINESE" value="470" />
+        <entry key="ENGLISH" value="471" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="2" />
