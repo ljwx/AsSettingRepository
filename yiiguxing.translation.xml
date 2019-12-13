@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="BAD DECRYPT" />
       <item value="cleartext" />
       <item value="javax.crypto.IllegalBlockSizeException: error:1e00007b:Cipher functions:OPENSSL_internal:WRONG_FINAL_BLOCK_LENGTH" />
       <item value="Hex" />
@@ -50,12 +51,11 @@
       <item value="praise rate" />
       <item value="好评率" />
       <item value="service explain" />
-      <item value="Delivery" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="471" />
-        <entry key="ENGLISH" value="472" />
+        <entry key="CHINESE" value="472" />
+        <entry key="ENGLISH" value="473" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="2" />
