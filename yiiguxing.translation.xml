@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="avatar" />
       <item value="barrier" />
       <item value="bank refund remind" />
       <item value="refunds info" />
@@ -50,11 +51,10 @@
       <item value="traingle" />
       <item value="pending" />
       <item value="pending coupons" />
-      <item value="待使用优惠券" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="476" />
+        <entry key="CHINESE" value="477" />
         <entry key="ENGLISH" value="477" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
@@ -69,7 +69,7 @@
         <entry key="HUNGARIAN" value="2" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="1" />
-        <entry key="VIETNAMESE" value="3" />
+        <entry key="VIETNAMESE" value="4" />
       </map>
     </option>
   </component>
