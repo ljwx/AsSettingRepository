@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ARouter::Compiler An exception is encountered, [Failed to extract default group! String index out of range: -2]" />
       <item value="SSL peer shut down incorrectly" />
       <item value="正在支付" />
       <item value="Paying" />
@@ -50,12 +51,11 @@
       <item value="Activitive" />
       <item value="invoice" />
       <item value="offer details" />
-      <item value="优惠详情" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="479" />
-        <entry key="ENGLISH" value="480" />
+        <entry key="CHINESE" value="480" />
+        <entry key="ENGLISH" value="481" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="2" />
