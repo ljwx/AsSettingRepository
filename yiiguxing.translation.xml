@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="order auto invalid" />
       <item value="reason for audit failure colon" />
       <item value="audit" />
       <item value="bank transfer audit failed" />
@@ -50,12 +51,11 @@
       <item value="subtotal" />
       <item value="Wait" />
       <item value="voucher" />
-      <item value="order amount money" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="488" />
-        <entry key="ENGLISH" value="489" />
+        <entry key="CHINESE" value="489" />
+        <entry key="ENGLISH" value="490" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="2" />
