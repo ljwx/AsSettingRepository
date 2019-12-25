@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="on View Attached To Window" />
       <item value="publish comments tips" />
       <item value="评论" />
       <item value="Comments" />
@@ -50,12 +51,11 @@
       <item value="breakdown" />
       <item value="Purchase" />
       <item value="Stuff" />
-      <item value="Topic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="493" />
-        <entry key="ENGLISH" value="494" />
+        <entry key="CHINESE" value="494" />
+        <entry key="ENGLISH" value="495" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="2" />
