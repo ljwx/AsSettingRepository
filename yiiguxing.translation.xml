@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="period" />
       <item value="is Vertical" />
       <item value="set Module" />
       <item value="on View Attached To Window" />
@@ -50,12 +51,11 @@
       <item value="payment infomation" />
       <item value="打款信息" />
       <item value="This is text that will be associated with the payment that the app can use" />
-      <item value="breakdown" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="496" />
-        <entry key="ENGLISH" value="497" />
+        <entry key="CHINESE" value="497" />
+        <entry key="ENGLISH" value="498" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="2" />
