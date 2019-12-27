@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Showed" />
+      <item value="is Showned" />
       <item value="Novice Dialog" />
       <item value="Novice" />
       <item value="period" />
@@ -49,13 +51,11 @@
       <item value="handle" />
       <item value="上传照片" />
       <item value="审核失败原因" />
-      <item value="上传支付凭证" />
-      <item value="payment infomation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="498" />
-        <entry key="ENGLISH" value="499" />
+        <entry key="CHINESE" value="500" />
+        <entry key="ENGLISH" value="501" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="2" />
