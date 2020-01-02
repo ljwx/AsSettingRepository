@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="density" />
       <item value="is Simulator" />
       <item value="java.lang.Object android.util.Pair.second" />
       <item value="Lane" />
@@ -50,12 +51,11 @@
       <item value="java.security.InvalidKeyException: Unsupported key size: 44 bytes" />
       <item value="spongy" />
       <item value="castle" />
-      <item value="spongycastle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="508" />
-        <entry key="ENGLISH" value="509" />
+        <entry key="CHINESE" value="509" />
+        <entry key="ENGLISH" value="510" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="2" />
