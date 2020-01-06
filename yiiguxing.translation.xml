@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="auto Expand" />
       <item value="set Virtual View Template" />
       <item value="Ratio Image View" />
       <item value="grid Expected Size" />
@@ -50,12 +51,11 @@
       <item value="待支付" />
       <item value="avatar" />
       <item value="barrier" />
-      <item value="bank refund remind" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="518" />
-        <entry key="ENGLISH" value="519" />
+        <entry key="CHINESE" value="519" />
+        <entry key="ENGLISH" value="520" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="1" />
