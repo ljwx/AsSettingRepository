@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cross Fade" />
       <item value="grid Expected Size" />
       <item value="Clearcut transport failed to make network request. Use 30111 milliseconds" />
       <item value="rationale" />
@@ -50,7 +51,6 @@
       <item value="express your opinion" />
       <item value="快来发表你的看法吧" />
       <item value="去购买" />
-      <item value="buyer thumbs up" />
     </histories>
     <option name="languageScores">
       <map>
