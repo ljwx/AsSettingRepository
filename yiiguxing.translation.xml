@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mounted" />
       <item value="Box Decoration" />
       <item value="Axis" />
       <item value="间距" />
@@ -50,12 +51,11 @@
       <item value="is Vertical" />
       <item value="set Module" />
       <item value="on View Attached To Window" />
-      <item value="publish comments tips" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="538" />
-        <entry key="ENGLISH" value="539" />
+        <entry key="CHINESE" value="539" />
+        <entry key="ENGLISH" value="540" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="1" />
