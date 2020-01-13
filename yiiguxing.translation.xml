@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot change dependencies of configuration ':flutter:releaseApi' after it has been included in dependency resolution." />
       <item value="HEAD" />
       <item value="special share title" />
       <item value="explaintion" />
@@ -50,12 +51,11 @@
       <item value="is Showed" />
       <item value="is Showned" />
       <item value="Novice Dialog" />
-      <item value="Novice" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="543" />
-        <entry key="ENGLISH" value="544" />
+        <entry key="CHINESE" value="544" />
+        <entry key="ENGLISH" value="545" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="1" />
