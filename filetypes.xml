@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="adfasdfojgoagfadsf" type="PLAIN_TEXT" />
       <mapping pattern="placeholderafter" type="PLAIN_TEXT" />
       <mapping pattern="place_holder_order" type="PLAIN_TEXT" />
       <mapping pattern="freeorder" type="PLAIN_TEXT" />
