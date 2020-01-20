@@ -1,13 +1,14 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="adfasdfojgoagfadsf" type="PLAIN_TEXT" />
       <mapping pattern="placeholderafter" type="PLAIN_TEXT" />
-      <mapping pattern="place_holder_order" type="PLAIN_TEXT" />
-      <mapping pattern="freeorder" type="PLAIN_TEXT" />
       <mapping pattern="holder" type="PLAIN_TEXT" />
-      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="placeholder" type="PLAIN_TEXT" />
+      <mapping pattern="gradlew" type="PLAIN_TEXT" />
+      <mapping pattern="freeorder" type="PLAIN_TEXT" />
+      <mapping pattern="adfasdfojgoagfadsf" type="PLAIN_TEXT" />
+      <mapping pattern="place_holder_order" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="mk" type="PLAIN_TEXT" />
       <mapping ext="aar" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
