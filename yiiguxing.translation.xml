@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="提示" />
       <item value="rate" />
       <item value="rate now" />
       <item value="立即评价" />
@@ -50,11 +51,10 @@
       <item value="相册" />
       <item value="actually" />
       <item value="thumbnail Scale" />
-      <item value="restrict Orientation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="560" />
+        <entry key="CHINESE" value="561" />
         <entry key="ENGLISH" value="561" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
