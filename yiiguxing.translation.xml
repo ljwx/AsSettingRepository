@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rate" />
+      <item value="rate now" />
+      <item value="立即评价" />
+      <item value="交易结果" />
       <item value="is Simulator" />
       <item value="contact/us" />
       <item value="invoice" />
@@ -47,15 +51,11 @@
       <item value="actually" />
       <item value="thumbnail Scale" />
       <item value="restrict Orientation" />
-      <item value="countable" />
-      <item value="auto Expand" />
-      <item value="set Virtual View Template" />
-      <item value="Ratio Image View" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="557" />
-        <entry key="ENGLISH" value="558" />
+        <entry key="CHINESE" value="560" />
+        <entry key="ENGLISH" value="561" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="1" />
