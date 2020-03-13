@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="convert Amout" />
       <item value="id number" />
       <item value="收款姓名" />
       <item value="提示" />
@@ -50,12 +51,11 @@
       <item value="grid Expected Size" />
       <item value="Clearcut transport failed to make network request. Use 30111 milliseconds" />
       <item value="rationale" />
-      <item value="相册" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="562" />
-        <entry key="ENGLISH" value="563" />
+        <entry key="CHINESE" value="563" />
+        <entry key="ENGLISH" value="564" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="1" />
