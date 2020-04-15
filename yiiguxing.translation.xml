@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="名次" />
       <item value="UNSPECIFIED" />
       <item value="has Network Available" />
       <item value="NETWORK ETHERNET" />
@@ -50,11 +51,10 @@
       <item value="Axis" />
       <item value="间距" />
       <item value="Divider" />
-      <item value="compute" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="576" />
+        <entry key="CHINESE" value="577" />
         <entry key="ENGLISH" value="577" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
