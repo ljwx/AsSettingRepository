@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="anima" />
+      <item value="anim" />
       <item value="Released" />
       <item value="Threshold" />
       <item value="distrib" />
@@ -49,12 +51,10 @@
       <item value="please check youre route" />
       <item value="Tween" />
       <item value="request Legacy External Storage" />
-      <item value="_Internal Linked Hash Map" />
-      <item value="This keeps the window background of the activity showing until Flutter renders its first frame. It can be removed if there is no splash screen (such as the default splash screen defined in @style/LaunchTheme)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="589" />
+        <entry key="CHINESE" value="590" />
         <entry key="ENGLISH" value="590" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
@@ -63,14 +63,14 @@
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="KURDISH" value="1" />
-        <entry key="LATIN" value="2" />
+        <entry key="LATIN" value="3" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="JAPANESE" value="3" />
         <entry key="SLOVAK" value="1" />
         <entry key="SLOVENIAN" value="2" />
         <entry key="SPANISH" value="1" />
         <entry key="HUNGARIAN" value="2" />
-        <entry key="ITALIAN" value="1" />
+        <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="VIETNAMESE" value="4" />
