@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="是否删除该条评论" />
       <item value="retract" />
       <item value="possibly Resize Child Of Content" />
       <item value="partner" />
@@ -50,11 +51,10 @@
       <item value="NETWORK ETHERNET" />
       <item value="Deduct" />
       <item value="Authen" />
-      <item value="EVENT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="618" />
+        <entry key="CHINESE" value="619" />
         <entry key="ENGLISH" value="619" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
