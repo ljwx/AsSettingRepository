@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="free order address select abandon" />
+      <item value="free order rule" />
       <item value="是否删除该条评论" />
       <item value="retract" />
       <item value="possibly Resize Child Of Content" />
@@ -49,13 +51,11 @@
       <item value="UNSPECIFIED" />
       <item value="has Network Available" />
       <item value="NETWORK ETHERNET" />
-      <item value="Deduct" />
-      <item value="Authen" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="619" />
-        <entry key="ENGLISH" value="619" />
+        <entry key="CHINESE" value="620" />
+        <entry key="ENGLISH" value="621" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="1" />
