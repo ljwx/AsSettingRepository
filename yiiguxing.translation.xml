@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="团队人数" />
       <item value="modify" />
       <item value="อ​-นามสกุล" />
       <item value="นามสกุล" />
@@ -50,11 +51,10 @@
       <item value="subscribe" />
       <item value="observe" />
       <item value="result explain detail" />
-      <item value="result respond" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="623" />
+        <entry key="CHINESE" value="624" />
         <entry key="ENGLISH" value="624" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
