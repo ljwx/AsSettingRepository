@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="获得以下新人大礼包" />
       <item value="assistance Result" />
       <item value="ครั้ง" />
       <item value="คุณสามารถถอนได้" />
@@ -50,11 +51,10 @@
       <item value="jump" />
       <item value="trade Click" />
       <item value="withdraw history" />
-      <item value="Commisson" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="631" />
+        <entry key="CHINESE" value="632" />
         <entry key="ENGLISH" value="632" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
