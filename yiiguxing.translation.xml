@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="assistance Result" />
       <item value="ครั้ง" />
       <item value="คุณสามารถถอนได้" />
       <item value="恭喜你" />
@@ -50,7 +51,6 @@
       <item value="trade Click" />
       <item value="withdraw history" />
       <item value="Commisson" />
-      <item value="anima" />
     </histories>
     <option name="languageScores">
       <map>
