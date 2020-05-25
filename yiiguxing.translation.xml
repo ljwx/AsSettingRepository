@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="请联系LINE客服" />
       <item value="to contact" />
       <item value="去联系" />
       <item value="Novice Dialog" />
@@ -50,11 +51,10 @@
       <item value="m Available" />
       <item value="重新申请" />
       <item value="intent Extra Execute" />
-      <item value="response Extra" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="634" />
+        <entry key="CHINESE" value="635" />
         <entry key="ENGLISH" value="635" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
