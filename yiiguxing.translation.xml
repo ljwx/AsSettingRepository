@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="我的" />
+      <item value="mine" />
+      <item value="MINE" />
+      <item value="FREE MAIN MINE" />
       <item value="dialog Content Processing" />
       <item value="consume Dialog" />
       <item value="处理" />
@@ -47,15 +51,11 @@
       <item value="flashsale_homeicon flashsale_homebanner flashsale_home_spikedetails" />
       <item value="elapsed" />
       <item value="setCurrentScreen cannot be called while no activity active" />
-      <item value="Property" />
-      <item value="placeholder" />
-      <item value="holder" />
-      <item value="withdraw cash auditing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="637" />
-        <entry key="ENGLISH" value="638" />
+        <entry key="CHINESE" value="642" />
+        <entry key="ENGLISH" value="642" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="1" />
