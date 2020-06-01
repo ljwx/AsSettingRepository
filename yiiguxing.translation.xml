@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="on Attach" />
       <item value="variant" />
       <item value="Handler" />
       <item value="generic Superclass" />
@@ -50,12 +51,11 @@
       <item value="CREATE ORDER FROM" />
       <item value="CREATE ORDER FROM Path" />
       <item value="CREATE ORDER FROM ORIGIN" />
-      <item value="create order from flash sale" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="645" />
-        <entry key="ENGLISH" value="646" />
+        <entry key="CHINESE" value="646" />
+        <entry key="ENGLISH" value="647" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="1" />
