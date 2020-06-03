@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Font" />
       <item value="Staggered" />
       <item value="ImgCompressPlugin call app gradle:build 'Bouti' false" />
       <item value="on Attach" />
@@ -50,18 +51,17 @@
       <item value="partner" />
       <item value="transactions" />
       <item value="select content" />
-      <item value="CREATE ORDER FROM" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="649" />
+        <entry key="CHINESE" value="650" />
         <entry key="ENGLISH" value="650" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
-        <entry key="FRENCH" value="3" />
+        <entry key="FRENCH" value="4" />
         <entry key="KURDISH" value="1" />
         <entry key="LATIN" value="3" />
         <entry key="LITHUANIAN" value="2" />
