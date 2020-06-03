@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Accessible" />
+      <item value="get Declared Field" />
       <item value="Ancestor" />
       <item value="find Ancestor" />
       <item value="Font" />
@@ -49,13 +51,11 @@
       <item value="free order rule" />
       <item value="是否删除该条评论" />
       <item value="retract" />
-      <item value="possibly Resize Child Of Content" />
-      <item value="partner" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="651" />
-        <entry key="ENGLISH" value="652" />
+        <entry key="CHINESE" value="653" />
+        <entry key="ENGLISH" value="654" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="1" />
