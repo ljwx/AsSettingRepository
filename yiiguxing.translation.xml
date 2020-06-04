@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stadium" />
       <item value="找相似" />
       <item value="find resemble" />
       <item value="find resemble bg" />
@@ -50,12 +51,11 @@
       <item value="ชื่อ​-นามสกุล" />
       <item value="Agent" />
       <item value="User-Agent" />
-      <item value="อาจ​คุณ​ชอบ" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="657" />
-        <entry key="ENGLISH" value="657" />
+        <entry key="ENGLISH" value="658" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="1" />
