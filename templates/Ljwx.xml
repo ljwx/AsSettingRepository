@@ -20,12 +20,6 @@
       <option name="XML" value="true" />
     </context>
   </template>
-  <template name="xRefreshListActivity" value="var mNext = &quot;&quot;&#10;private val mEmpty = ListEmptyData()&#10;val mType = BindingType.create(::class.java, R.layout.)&#10;val mAdapter = EndlessAdapter(mType, ItemTypes.EMPTY)&#10;&#10;override fun onCreate(savedInstanceState: Bundle?) {&#10;    super.onCreate(savedInstanceState)&#10;    mBinding.recycler.adapter = mAdapter&#10;    mAdapter.setOnLoadMoreListener {&#10;        getData(false)&#10;    }&#10;    mBinding.refresh.setOnRefreshListener {&#10;        getData(true)&#10;    }&#10;    getData(true)&#10;}&#10;&#10;&#10;fun getData(isRefresh: Boolean) {&#10;    mNext = if (isRefresh) &quot;&quot; else mNext&#10;    API.area().(mNext).doOnComplete { mBinding.refresh.isRefreshing = false }&#10;        .lifecycle(this).subscribe {&#10;        mNext = it.data.next&#10;        Utils.setDataList(mAdapter, it.data.items, isRefresh, it.data.hasMore, mEmpty)&#10;    }&#10;}" description="" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_CODE" value="true" />
-      <option name="KOTLIN" value="true" />
-    </context>
-  </template>
   <template name="xbingXml" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;layout xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&#10;    xmlns:app=&quot;http://schemas.android.com/apk/res-auto&quot;&#10;    xmlns:tools=&quot;http://schemas.android.com/tools&quot;&gt;&#10;&#10;    &lt;data&gt;&#10;&#10;        &lt;import type=&quot;android.view.View&quot; /&gt;&#10;&#10;        &lt;variable&#10;            name=&quot;onClick&quot;&#10;            type=&quot;android.view.View.OnClickListener&quot; /&gt;&#10;&#10;    &lt;/data&gt;&#10;&#10;    &lt;android.support.constraint.ConstraintLayout&#10;        android:orientation=&quot;vertical&quot;&#10;        android:layout_width=&quot;match_parent&quot;&#10;        android:layout_height=&quot;match_parent&quot;&#10;        android:gravity=&quot;center_horizontal&quot;&gt;&#10;&#10;&#10;    &lt;/android.support.constraint.ConstraintLayout&gt;&#10;&lt;/layout&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="XML" value="true" />
@@ -40,11 +34,6 @@
     <context>
       <option name="JAVA_CODE" value="true" />
       <option name="KOTLIN" value="true" />
-    </context>
-  </template>
-  <template name="x-refreshNestscrollBind" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;layout xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&#10;    xmlns:app=&quot;http://schemas.android.com/apk/res-auto&quot;&#10;    xmlns:tools=&quot;http://schemas.android.com/tools&quot;&gt;&#10;&#10;    &lt;data&gt;&#10;&#10;    &lt;/data&gt;&#10;&#10;    &lt;LinearLayout&#10;        android:layout_width=&quot;match_parent&quot;&#10;        android:layout_height=&quot;match_parent&quot;&#10;        android:orientation=&quot;vertical&quot;&gt;&#10;&#10;        &lt;ezy.ui.widget.CenteredTitleBar&#10;            android:id=&quot;@+id/toolbar&quot;&#10;            style=&quot;@style/Toolbar.BgWhite&quot;&#10;            app:title=&quot;排行榜&quot; /&gt;&#10;&#10;        &lt;com.scwang.smartrefresh.layout.SmartRefreshLayout&#10;            android:id=&quot;@+id/refresh&quot;&#10;            android:layout_width=&quot;match_parent&quot;&#10;            android:layout_height=&quot;match_parent&quot;&gt;&#10;&#10;            &lt;com.tianyuan.sjnc.common.widget.CustomRefreshHeader&#10;                android:layout_width=&quot;match_parent&quot;&#10;                app:titleTextColor=&quot;@color/textSecondary&quot;&#10;                app:backgroundColor=&quot;@color/grey_f4&quot;&#10;                android:layout_height=&quot;wrap_content&quot; /&gt;&#10;&#10;            &lt;android.support.v7.widget.RecyclerView&#10;                android:id=&quot;@+id/list&quot;&#10;                android:layout_width=&quot;match_parent&quot;&#10;                android:layout_height=&quot;wrap_content&quot;&#10;                android:layout_marginTop=&quot;10dp&quot;&#10;                app:layoutManager=&quot;android.support.v7.widget.LinearLayoutManager&quot; /&gt;&#10;        &lt;/com.scwang.smartrefresh.layout.SmartRefreshLayout&gt;&#10;    &lt;/LinearLayout&gt;&#10;&#10;&lt;/layout&gt;" description="" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="XML" value="true" />
     </context>
   </template>
   <template name="xtextview" value="&lt;TextView&#10;    android:layout_width=&quot;wrap_content&quot;&#10;    android:layout_height=&quot;wrap_content&quot;&#10;    android:layout_marginLeft=&quot;0dp&quot;&#10;    android:layout_marginTop=&quot;0dp&quot;&#10;    android:layout_marginRight=&quot;0dp&quot;&#10;    android:text=&quot;&quot;&#10;    android:textColor=&quot;@color/textPrimary&quot;&#10;    android:textSize=&quot;14dp&quot; /&gt;" description="" toReformat="false" toShortenFQNames="true">
@@ -114,12 +103,12 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="xerror" value="if (it.code != 200) {&#10;    context.toast(it.message)&#10;    return@subscribe&#10; }" description="" toReformat="false" toShortenFQNames="true">
+  <template name="xholder" value="app:placeholder='@{@drawable/place_holder_bouti_square}'" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="KOTLIN" value="true" />
+      <option name="XML" value="true" />
     </context>
   </template>
-  <template name="xholder" value="app:placeholder='@{@drawable/place_holder_bouti_square}'" description="" toReformat="false" toShortenFQNames="true">
+  <template name="xcons_center_vertical" value="app:layout_constraintBottom_toBottomOf=&quot;@id/icon&quot;&#10;app:layout_constraintTop_toTopOf=&quot;@id/icon&quot;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="XML" value="true" />
     </context>
