@@ -108,12 +108,12 @@
       <option name="XML" value="true" />
     </context>
   </template>
-  <template name="xcons_center_vertical" value="app:layout_constraintBottom_toBottomOf=&quot;@id/icon&quot;&#10;app:layout_constraintTop_toTopOf=&quot;@id/icon&quot;" toReformat="false" toShortenFQNames="true">
+  <template name="xcons_center_vertical" value="app:layout_constraintBottom_toBottomOf=&quot;@id/icon&quot;&#10;app:layout_constraintTop_toTopOf=&quot;@id/icon&quot;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="XML" value="true" />
     </context>
   </template>
-  <template name="xcons_center_horizontal" value="app:layout_constraintRight_toRightOf=&quot;parent&quot;&#10;app:layout_constraintLeft_toLeftOf=&quot;parent&quot;" toReformat="false" toShortenFQNames="true">
+  <template name="xcons_center_horizontal" value="app:layout_constraintRight_toRightOf=&quot;parent&quot;&#10;app:layout_constraintLeft_toLeftOf=&quot;parent&quot;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="XML" value="true" />
     </context>
