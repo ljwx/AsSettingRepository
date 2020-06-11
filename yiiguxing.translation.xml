@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Coordinator Layout" />
+      <item value="SCROLL STATE IDLE" />
+      <item value="SCROLL STATE SETTLING" />
       <item value="Multiple Status View" />
       <item value="tab Data Is Same" />
       <item value="Modify" />
@@ -11,7 +14,6 @@
       <item value="classification" />
       <item value="CHANNEL" />
       <item value="on Arrival" />
-      <item value="SCROLL STATE IDLE" />
       <item value="SCROLL STATE DRAGGING" />
       <item value="Circle" />
       <item value="column" />
@@ -49,13 +51,11 @@
       <item value="assistance Result" />
       <item value="ครั้ง" />
       <item value="คุณสามารถถอนได้" />
-      <item value="恭喜你" />
-      <item value="去首页" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="671" />
-        <entry key="ENGLISH" value="672" />
+        <entry key="CHINESE" value="674" />
+        <entry key="ENGLISH" value="675" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="1" />
