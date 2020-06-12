@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Round Image View" />
+      <item value="Round" />
       <item value="Borders" />
       <item value="Radius" />
       <item value="Radiu" />
@@ -49,13 +51,11 @@
       <item value="dialog Content Processing" />
       <item value="consume Dialog" />
       <item value="处理" />
-      <item value="请联系LINE客服" />
-      <item value="to contact" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="678" />
-        <entry key="ENGLISH" value="679" />
+        <entry key="CHINESE" value="680" />
+        <entry key="ENGLISH" value="681" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
