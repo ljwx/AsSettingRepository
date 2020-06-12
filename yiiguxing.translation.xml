@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Borders" />
       <item value="Radius" />
       <item value="Radiu" />
       <item value="radius" />
@@ -50,12 +51,11 @@
       <item value="处理" />
       <item value="请联系LINE客服" />
       <item value="to contact" />
-      <item value="去联系" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="677" />
-        <entry key="ENGLISH" value="678" />
+        <entry key="CHINESE" value="678" />
+        <entry key="ENGLISH" value="679" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
