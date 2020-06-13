@@ -108,7 +108,7 @@
       <option name="XML" value="true" />
     </context>
   </template>
-  <template name="xcons_center_vertical" value="app:layout_constraintBottom_toBottomOf=&quot;@id/icon&quot;&#10;app:layout_constraintTop_toTopOf=&quot;@id/icon&quot;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="xcons_center_vertical" value="app:layout_constraintBottom_toBottomOf=&quot;parent&quot;&#10;app:layout_constraintTop_toTopOf=&quot;parent&quot;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="XML" value="true" />
     </context>
