@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fixed Header View Id" />
       <item value="server text color" />
       <item value="LIKE INSERT LAST" />
       <item value="current Item May Like Inserted" />
@@ -50,12 +51,11 @@
       <item value="跳转" />
       <item value="我的" />
       <item value="mine" />
-      <item value="MINE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="683" />
-        <entry key="ENGLISH" value="684" />
+        <entry key="CHINESE" value="684" />
+        <entry key="ENGLISH" value="685" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
