@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dx Unconsumed" />
+      <item value="dx Consumed" />
       <item value="Fixed Header View Id" />
       <item value="server text color" />
       <item value="LIKE INSERT LAST" />
@@ -49,13 +51,11 @@
       <item value="generic Superclass" />
       <item value="Turn" />
       <item value="跳转" />
-      <item value="我的" />
-      <item value="mine" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="684" />
-        <entry key="ENGLISH" value="685" />
+        <entry key="CHINESE" value="686" />
+        <entry key="ENGLISH" value="687" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
