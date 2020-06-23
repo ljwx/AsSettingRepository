@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="observer Data" />
       <item value="arch" />
       <item value="猜你喜欢" />
       <item value="m Guess Like" />
@@ -50,12 +51,11 @@
       <item value="find Ancestor" />
       <item value="Font" />
       <item value="Staggered" />
-      <item value="ImgCompressPlugin call app gradle:build 'Bouti' false" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="691" />
-        <entry key="ENGLISH" value="692" />
+        <entry key="CHINESE" value="692" />
+        <entry key="ENGLISH" value="693" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
