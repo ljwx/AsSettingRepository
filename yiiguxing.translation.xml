@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="说明" />
       <item value="divider vertical" />
       <item value="observe Data" />
       <item value="observer Data" />
@@ -50,11 +51,10 @@
       <item value="classify" />
       <item value="Coordinator Layout" />
       <item value="SCROLL STATE IDLE" />
-      <item value="SCROLL STATE SETTLING" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="717" />
+        <entry key="CHINESE" value="718" />
         <entry key="ENGLISH" value="718" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
