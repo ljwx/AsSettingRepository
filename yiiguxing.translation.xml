@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="commit Allowing State Loss" />
       <item value="drawerlayout" />
       <item value="unuseable" />
       <item value="dispatch Touch Event" />
@@ -50,12 +51,11 @@
       <item value="Radius" />
       <item value="Radiu" />
       <item value="radius" />
-      <item value="radiu" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="721" />
-        <entry key="ENGLISH" value="722" />
+        <entry key="CHINESE" value="722" />
+        <entry key="ENGLISH" value="723" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
