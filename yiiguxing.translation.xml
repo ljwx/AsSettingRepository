@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fixed" />
       <item value="axes" />
       <item value="on Nested Scroll Accepted" />
       <item value="on Save Instance State" />
@@ -14,7 +15,6 @@
       <item value="divider vertical" />
       <item value="observe Data" />
       <item value="observer Data" />
-      <item value="fixed" />
       <item value="get And Verify Preordered View" />
       <item value="get And Verify Preordered Index" />
       <item value="intercepted" />
