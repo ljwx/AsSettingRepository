@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="axes" />
       <item value="on Nested Scroll Accepted" />
       <item value="on Save Instance State" />
       <item value="Arch" />
@@ -50,12 +51,11 @@
       <item value="BOUTIQUE" />
       <item value="Round Image View" />
       <item value="Round" />
-      <item value="Borders" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="725" />
-        <entry key="ENGLISH" value="726" />
+        <entry key="CHINESE" value="726" />
+        <entry key="ENGLISH" value="727" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
