@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="count Time" />
       <item value="stack Trace" />
       <item value="on Nested Pre Scroll" />
       <item value="get Nested Scroll Axes" />
@@ -50,7 +51,6 @@
       <item value="Fixed Header View Id" />
       <item value="server text color" />
       <item value="LIKE INSERT LAST" />
-      <item value="current Item May Like Inserted" />
     </histories>
     <option name="languageScores">
       <map>
