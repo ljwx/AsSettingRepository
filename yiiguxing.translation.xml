@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="verify Sms Code" />
       <item value="count Time" />
       <item value="stack Trace" />
       <item value="on Nested Pre Scroll" />
@@ -50,7 +51,6 @@
       <item value="dx Consumed" />
       <item value="Fixed Header View Id" />
       <item value="server text color" />
-      <item value="LIKE INSERT LAST" />
     </histories>
     <option name="languageScores">
       <map>
