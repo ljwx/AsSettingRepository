@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Negative Button" />
       <item value="verify Sms Code" />
       <item value="count Time" />
       <item value="stack Trace" />
@@ -50,12 +51,11 @@
       <item value="dx Unconsumed" />
       <item value="dx Consumed" />
       <item value="Fixed Header View Id" />
-      <item value="server text color" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="728" />
-        <entry key="ENGLISH" value="729" />
+        <entry key="CHINESE" value="729" />
+        <entry key="ENGLISH" value="730" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
