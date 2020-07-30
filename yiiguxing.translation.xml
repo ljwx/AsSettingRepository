@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="assumed" />
       <item value="解除绑定" />
       <item value="launch Third" />
       <item value="sms Code Inpu Complete" />
@@ -50,7 +51,6 @@
       <item value="m Guess Like" />
       <item value="set Text Color String Default" />
       <item value="divide" />
-      <item value="set Image Remote" />
     </histories>
     <option name="languageScores">
       <map>
