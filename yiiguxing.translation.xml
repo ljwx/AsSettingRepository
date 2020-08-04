@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Delivery" />
+      <item value="List" />
       <item value="observe" />
       <item value="Deduct" />
       <item value="mid row" />
@@ -49,8 +51,6 @@
       <item value="on Filter Touch Event For Security" />
       <item value="handled" />
       <item value="set Target Accessibility Focus" />
-      <item value="is Accessibility Focused View Or Host" />
-      <item value="is Target Accessibility Focus" />
     </histories>
     <option name="languageScores">
       <map>
