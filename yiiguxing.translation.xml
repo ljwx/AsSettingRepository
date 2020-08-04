@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="observe" />
       <item value="Deduct" />
       <item value="mid row" />
       <item value="Automatically convert third-party libraries to use AndroidX" />
@@ -50,12 +51,11 @@
       <item value="set Target Accessibility Focus" />
       <item value="is Accessibility Focused View Or Host" />
       <item value="is Target Accessibility Focus" />
-      <item value="m Input Event Consistency Verifier" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="741" />
-        <entry key="ENGLISH" value="742" />
+        <entry key="CHINESE" value="742" />
+        <entry key="ENGLISH" value="743" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
