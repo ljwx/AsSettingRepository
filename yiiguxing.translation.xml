@@ -1,11 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Deduct" />
       <item value="show Address" />
       <item value="Delivery" />
       <item value="List" />
       <item value="observe" />
-      <item value="Deduct" />
       <item value="mid row" />
       <item value="Automatically convert third-party libraries to use AndroidX" />
       <item value="is Initiative Login" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="742" />
-        <entry key="ENGLISH" value="743" />
+        <entry key="CHINESE" value="743" />
+        <entry key="ENGLISH" value="744" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
