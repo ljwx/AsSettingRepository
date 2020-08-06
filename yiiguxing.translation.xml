@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="drop Last" />
       <item value="block" />
       <item value="Deduct" />
       <item value="show Address" />
@@ -50,12 +51,11 @@
       <item value="cancel And Clear Touch Targets" />
       <item value="ACTION MASK" />
       <item value="action Masked" />
-      <item value="on Filter Touch Event For Security" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="744" />
-        <entry key="ENGLISH" value="745" />
+        <entry key="CHINESE" value="745" />
+        <entry key="ENGLISH" value="746" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
