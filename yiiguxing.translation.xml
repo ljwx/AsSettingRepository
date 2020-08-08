@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Engine" />
       <item value="Instantiate a FlutterEngine." />
       <item value="drop Last" />
       <item value="block" />
@@ -50,12 +51,11 @@
       <item value="disallow Intercept" />
       <item value="reset Touch State" />
       <item value="cancel And Clear Touch Targets" />
-      <item value="ACTION MASK" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="745" />
-        <entry key="ENGLISH" value="746" />
+        <entry key="CHINESE" value="746" />
+        <entry key="ENGLISH" value="747" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
