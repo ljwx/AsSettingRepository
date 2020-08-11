@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="index" />
       <item value="column Count" />
       <item value="align Bounds" />
       <item value="row Order Preserved" />
@@ -50,12 +51,11 @@
       <item value="response" />
       <item value="assumed" />
       <item value="解除绑定" />
-      <item value="launch Third" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="781" />
-        <entry key="ENGLISH" value="782" />
+        <entry key="CHINESE" value="782" />
+        <entry key="ENGLISH" value="783" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
