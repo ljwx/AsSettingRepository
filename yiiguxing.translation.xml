@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="layout" />
       <item value="Span Size Lookup" />
       <item value="get Span Size Lookup" />
       <item value="index" />
@@ -50,12 +51,11 @@
       <item value="either" />
       <item value="target" />
       <item value="fatal" />
-      <item value="response" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="784" />
-        <entry key="ENGLISH" value="785" />
+        <entry key="CHINESE" value="785" />
+        <entry key="ENGLISH" value="786" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
