@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The system bootloader version number." />
       <item value="A string that uniquely identifies this build. Do not attempt to parse this value." />
       <item value="The time at which the build was produced, given in milliseconds since the UNIX epoch." />
       <item value="Missing Permission" />
@@ -50,12 +51,11 @@
       <item value="Instantiate a FlutterEngine." />
       <item value="drop Last" />
       <item value="block" />
-      <item value="Deduct" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="801" />
-        <entry key="ENGLISH" value="802" />
+        <entry key="CHINESE" value="803" />
+        <entry key="ENGLISH" value="804" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
