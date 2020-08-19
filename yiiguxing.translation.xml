@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="encrypt MD 5 To String" />
       <item value="Installation" />
       <item value="Security Exception" />
       <item value="The time at which the build was produced, given in milliseconds since the UNIX epoch." />
@@ -50,12 +51,11 @@
       <item value="The name of the industrial design" />
       <item value="serial" />
       <item value="If the version of SDK is greater than 28, it will return an empty string" />
-      <item value="Return the unique device id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="810" />
-        <entry key="ENGLISH" value="811" />
+        <entry key="CHINESE" value="811" />
+        <entry key="ENGLISH" value="812" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
