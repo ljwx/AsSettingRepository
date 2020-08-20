@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="suffix" />
       <item value="phone serial" />
       <item value="Deprecated" />
       <item value="encrypt MD 5 To String" />
@@ -50,12 +51,11 @@
       <item value="Either a changelist number, or a label" />
       <item value="Either a changelist number, or a label like" />
       <item value="A string that uniquely identifies this build. Do not attempt to parse this value" />
-      <item value="The name of the industrial design" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="813" />
-        <entry key="ENGLISH" value="814" />
+        <entry key="CHINESE" value="814" />
+        <entry key="ENGLISH" value="815" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
