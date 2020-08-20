@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SHOW SALE VOLUME" />
       <item value="suffix" />
       <item value="phone serial" />
       <item value="Deprecated" />
@@ -50,7 +51,6 @@
       <item value="The name of the hardware" />
       <item value="Either a changelist number, or a label" />
       <item value="Either a changelist number, or a label like" />
-      <item value="A string that uniquely identifies this build. Do not attempt to parse this value" />
     </histories>
     <option name="languageScores">
       <map>
