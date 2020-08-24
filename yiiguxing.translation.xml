@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="resize" />
+      <item value="height" />
       <item value="SHOW SALE VOLUME" />
       <item value="suffix" />
       <item value="phone serial" />
@@ -49,13 +51,11 @@
       <item value="The name of the overall product" />
       <item value="The end-user-visible name for the end product" />
       <item value="The name of the hardware" />
-      <item value="Either a changelist number, or a label" />
-      <item value="Either a changelist number, or a label like" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="814" />
-        <entry key="ENGLISH" value="815" />
+        <entry key="CHINESE" value="816" />
+        <entry key="ENGLISH" value="817" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
