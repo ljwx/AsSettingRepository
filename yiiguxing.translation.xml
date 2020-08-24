@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <histories>
       <item value="resize" />
+      <item value="origin" />
       <item value="height" />
       <item value="SHOW SALE VOLUME" />
       <item value="suffix" />
@@ -14,7 +15,6 @@
       <item value="The internal value used by the underlying source control to represent this build. E.g., a perforce changelist number or a git hash." />
       <item value="An ordered list of ABIs supported by this device. The most preferred ABI is the first element in the list." />
       <item value="The name of the instruction set (CPU type + ABI convention) of native code." />
-      <item value="origin" />
       <item value="The system bootloader version number." />
       <item value="A string that uniquely identifies this build. Do not attempt to parse this value." />
       <item value="Missing Permission" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="816" />
-        <entry key="ENGLISH" value="817" />
+        <entry key="CHINESE" value="818" />
+        <entry key="ENGLISH" value="819" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
