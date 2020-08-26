@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="on Pretreatment" />
       <item value="pretreatment Service" />
       <item value="Gateway" />
       <item value="resize" />
@@ -50,12 +51,11 @@
       <item value="eng" />
       <item value="The type of build, like &quot;user&quot; or &quot;eng&quot;" />
       <item value="Comma-separated tags describing the build, like &quot;unsigned,debug&quot;" />
-      <item value="The name of the overall product" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="820" />
-        <entry key="ENGLISH" value="821" />
+        <entry key="CHINESE" value="821" />
+        <entry key="ENGLISH" value="822" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
