@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A proxy setting that represents a {@code DIRECT} connection, basically telling the protocol handler not to use any proxying. Used, for instance, to create sockets bypassing any other global" />
       <item value="on Pretreatment" />
       <item value="pretreatment Service" />
       <item value="Gateway" />
@@ -50,12 +51,11 @@
       <item value="The current development codename, or the string &quot;REL&quot; if this is * a release build" />
       <item value="eng" />
       <item value="The type of build, like &quot;user&quot; or &quot;eng&quot;" />
-      <item value="Comma-separated tags describing the build, like &quot;unsigned,debug&quot;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="821" />
-        <entry key="ENGLISH" value="822" />
+        <entry key="CHINESE" value="822" />
+        <entry key="ENGLISH" value="823" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
