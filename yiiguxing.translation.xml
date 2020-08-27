@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="retry fill" />
+      <item value="confirm information" />
       <item value="方便我们及时联系到你" />
       <item value="请填写个人信息" />
       <item value="java.lang.IllegalArgumentException: Unsupported value:" />
@@ -49,13 +51,11 @@
       <item value="most Sig Bits" />
       <item value="The SDK version of the software currently running on this hardware device. This value never changes while a device is booted, but it may increase when the hardware manufacturer provides an OTA update. &lt;p&gt; Possible values are defined in {@link Build.VERSION_CODES}." />
       <item value="The SDK version of the software currently running on this hardware device. This value never changes while a device is booted, but it m increase when the hardware manufacturer provides an OTA update. &lt;p&gt; Possible values are defined in {@link Build.VERSION_CODES}." />
-      <item value="The user-visible version string. E.g., &quot;1.0&quot; or &quot;3.4b5&quot; or &quot;bananas&quot;. This field is an opaque string. Do not assume that its value has any particular structure or that values of RELEASE from different releases can be somehow ordered." />
-      <item value="The current development codename, or the string &quot;REL&quot; if this is a release build." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="825" />
-        <entry key="ENGLISH" value="825" />
+        <entry key="CHINESE" value="827" />
+        <entry key="ENGLISH" value="828" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
