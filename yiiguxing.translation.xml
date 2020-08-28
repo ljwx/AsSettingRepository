@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="跳转" />
       <item value="Rebate" />
       <item value="Anima" />
       <item value="sure" />
@@ -50,11 +51,10 @@
       <item value="Span Size Lookup" />
       <item value="get Span Size Lookup" />
       <item value="index" />
-      <item value="column Count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="833" />
+        <entry key="CHINESE" value="834" />
         <entry key="ENGLISH" value="834" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
