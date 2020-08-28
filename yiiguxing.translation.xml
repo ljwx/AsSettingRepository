@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Anima" />
       <item value="sure" />
       <item value="Login" />
       <item value="invite friends" />
@@ -50,11 +51,10 @@
       <item value="index" />
       <item value="column Count" />
       <item value="align Bounds" />
-      <item value="row Order Preserved" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="832" />
+        <entry key="CHINESE" value="833" />
         <entry key="ENGLISH" value="833" />
         <entry key="ALBANIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
@@ -72,7 +72,7 @@
         <entry key="THAI" value="6" />
         <entry key="SPANISH" value="1" />
         <entry key="HUNGARIAN" value="2" />
-        <entry key="ITALIAN" value="2" />
+        <entry key="ITALIAN" value="3" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="VIETNAMESE" value="4" />
