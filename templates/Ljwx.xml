@@ -118,4 +118,15 @@
       <option name="XML" value="true" />
     </context>
   </template>
+  <template name="xrecyc" value="mBinding.recycler.layoutManager = LinearLayoutManager(this, LinearLayoutManager.VERTICAL, false)" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="xrecyX" value="androidx.recyclerview.widget.RecyclerView" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
 </templateSet>
